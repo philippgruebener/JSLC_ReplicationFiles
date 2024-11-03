@@ -1,0 +1,747 @@
+variable_2008,description_2008,topic_2008,variable_2014,description_2014,topic_2014
+*** NO MATCH AVAILABLE ***,,,TJB1_WKHRS1,Hours worked at job 1 in week 1.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TJB1_WKHRS2,Hours worked at job 1 in week 2.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TJB1_WKHRS3,Hours worked at job 1 in week 3.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TJB1_WKHRS4,Hours worked at job 1 in week 4.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TJB1_WKHRS5,Hours worked at job 1 in week 5.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TJB2_WKHRS1,Hours worked at job 2 in week 1.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TJB2_WKHRS2,Hours worked at job 2 in week 2.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TJB2_WKHRS3,Hours worked at job 2 in week 3.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TJB2_WKHRS4,Hours worked at job 2 in week 4.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TJB2_WKHRS5,Hours worked at job 2 in week 5.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TWKHRS1,Number of hours worked at all jobs in week 1.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TWKHRS2,Number of hours worked at all jobs in week 2.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TWKHRS3,Number of hours worked at all jobs in week 3.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TWKHRS4,Number of hours worked at all jobs in week 4.,Labor Force
+*** NO MATCH AVAILABLE ***,,,TWKHRS5,Number of hours worked at all jobs in week 5.,Labor Force
+E1LVLMPS,Asks if respondent can get lump-sum,Retirement Expectations and Pension Plan Coverage,*** NO MATCH AVAILABLE ***,,
+EA1OWED,Money owed for 1st vehicle,Real Estate,EVEH1DEBT,"Whether any money was owed on the first vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA1OWN1,First owner of first vehicle,Real Estate,EVEH1OWNER1,"First owner of the first car, truck, or van as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA1OWN2,Second owner of first vehicle,Real Estate,EVEH1OWNER2,"Second owner of the first car, truck, or van as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA1USE,Primary use of vehicle,Real Estate,EVEH1USE,"Whether the primary use of the first vehicle was for either: business purposes or transportation of a disabled person [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA2OWED,Money owed on the 2nd vehicle,Real Estate,EVEH2DEBT,"Whether any money was owed on the second vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA2OWN1,First owner of second vehicle,Real Estate,EVEH2OWNER1,"First owner of the second car, truck, or van as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA2OWN2,2nd owner of second vehicle,Real Estate,EVEH2OWNER2,"Second owner of the second car, truck, or van as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA2OWN2,2nd owner of second vehicle,Real Estate,EVEH2OWNER3,Suppressed,Assets
+EA2USE,Primary use of vehicle,Real Estate,EVEH2USE,"Whether the primary use of the second vehicle was for either: business purposes or transportation of a disabled person [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA3OWED,Money owed for third vehicle,Real Estate,EVEH3DEBT,"Whether any money was owed on the third vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA3OWN1,1st owner of third vehicle,Real Estate,EVEH3OWNER1,"First owner of the third car, truck, or van as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA3OWN2,2nd owner of third vehicle,Real Estate,EVEH3OWNER2,"Second owner of the third car, truck, or van as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA3OWN2,2nd owner of third vehicle,Real Estate,EVEH3OWNER3,"Third owner of the third car, truck, or van as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EA3USE,Primary use of vehicle,Real Estate,EVEH3USE,"Whether the primary use of the third vehicle was for either: business purposes or transportation of a disabled person [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EABGAS,"Did not pay gas, oil, or electricity bills",Adult Well Being,EAWBGAS,Was ... unable to pay the utility bills?,Adult and Child Well Being
+EABRE,Main reason for being absent without pay,Labor Force,EJB1_AWOPRE1,A value from 1 to 12 indicating the reason for time away without pay.,Labor Force
+EABRE,Main reason for being absent without pay,Labor Force,EJB1_AWOPRE2,A value from 1 to 12 indicating the reason for time away without pay.,Labor Force
+EABRE,Main reason for being absent without pay,Labor Force,EJB1_AWOPRE3,A value from 1 to 12 indicating the reason for time away without pay.,Labor Force
+EABRE,Main reason for being absent without pay,Labor Force,EJB2_AWOPRE1,A value from 1 to 12 indicating the reason for time away without pay.,Labor Force
+EABRE,Main reason for being absent without pay,Labor Force,EJB2_AWOPRE2,A value from 1 to 12 indicating the reason for time away without pay.,Labor Force
+EABRE,Main reason for being absent without pay,Labor Force,EJB2_AWOPRE3,A value from 1 to 12 indicating the reason for time away without pay.,Labor Force
+EABRENT,Did not pay rent or mortgage,Adult Well Being,EAWBMORT,Was ... unable to pay rent or mortgage?,Adult and Child Well Being
+EACNSAF,Consider neighborhood safe from crime.,Adult Well Being,EAWBSAFE,Is ... neighborhood safe from crime?,Adult and Child Well Being
+EACSTAY,Stayed at home at certain times.,Adult Well Being,EAWBSTAY,Did ... stay home during certain time because he/she thought it might be unsafe?,Adult and Child Well Being
+EAFBALN,Couldn't afford balanced meals,Adult Well Being,EFOOD2,Could not afford balanced meals?,Adult and Child Well Being
+EAFDAY,Didn't eat for a whole day,Adult Well Being,EFOOD6,"In 2013, were you ever hungry but didn't eat because there wasn't enough money for food?",Adult and Child Well Being
+EAFEVER,Lifetime Armed Forces status,Armed Forces,RAFEVER,Did this person ever serve on active duty in the U.S. Armed Forces?,Demographics
+EAFLAST,Food we bought just didn't last,Adult Well Being,EFOOD1,The food you bought did not last?,Adult and Child Well Being
+EAFLESS,Ate less than felt you should,Adult Well Being,EFOOD5,"In 2013, did you ever eat less than you felt you should because there wasn't enough money to buy food?",Adult and Child Well Being
+EAFNOW,Current Armed Forces status,Armed Forces,EAFNOW,Is this person currently on active duty in the U.S. Armed Forces?,Demographics
+EAFSKIP,Cut size or skipped meals,Adult Well Being,EFOOD3,"In 2013, did you ever cut the size of your meals or skip meals because there wasn't enough money for food?",Adult and Child Well Being
+EAHCRAC,Problem with holes or cracks in wall or ceiling,Adult Well Being,EAWBCRACK,Are there cracks in the ceiling or walls?,Adult and Child Well Being
+EAHHOLE,Problem with holes in the floor,Adult Well Being,EAWBHOLES,Are there holes in the floor?,Adult and Child Well Being
+EAHPEST,Problem with pests,Adult Well Being,EAWBPESTS,Is there a problem with pests?,Adult and Child Well Being
+EAHPLUM,Problem with plumbing that doesn't work,Adult Well Being,EAWBPLUMB,Are there plumbing problems?,Adult and Child Well Being
+EALICH,Non-interest checking account in own name,Assets and Liabilities,EOOWNCHK,Owned any regular (non-interest-earning) checking accounts individually during the reference period.,Assets
+EALIDB,Money owed in own name for store bills/credit cards,Assets and Liabilities,EOCCDEBT,Owed any money for credit cards or store bills in own name only during the reference period.,Assets
+EALIDO,Money owed in own name for other debt,Assets and Liabilities,EOOTDEBT,Owed any money for other debts in own name only during the reference period.,Assets
+EALIYN,Receipt of alimony payments (ISS Code 29),General Income,EALIANY,"Did ... receive payments from a spouse, such as alimony, at any time during the reference period?",Programs
+EALJCH,Jointly owned non-interest earning checking accounts,Assets and Liabilities,*** NO MATCH AVAILABLE ***,Owned any regular (non-interest-earning) checking accounts jointly during the reference period [for respondents without a spouse or civil union partner in the household].,Assets
+EALJCH,Jointly owned non-interest earning checking accounts,Assets and Liabilities,EJSOWNCHK,"Owned any regular (non-interest-earning) checking accounts jointly during the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+EALJDB,Money owed for store bills/credit cards with spouse,Assets and Liabilities,EJSCCDEBT,Owed any money for credit cards or store bills jointly with a spouse or civil union partner during the reference period.,Assets
+EALJDO,Money owed for other debt with spouse,Assets and Liabilities,EJSOTDEBT,Owed any money for other debts jointly with a spouse or civil union partner during the reference period.,Assets
+EALLI,Life insurance coverage,Assets and Liabilities,EOWN_LIFE,Owned any life insurance policies during the reference period.,Assets
+EALLIT,Type(s) of life insurance policy,Assets and Liabilities,ELIFE_TYPE,Type of life insurance policy owned during the reference period,Assets
+EALLTH,Report of complete adult tooth loss,Medical Expenses,EALLTH,Has ... lost all of his/her permanent adult teeth?,Health Care
+EANTRAF,Problem in neighborhood street noise,Adult Well Being,EAWBTRAFF,Is street noise or traffic a problem?,Adult and Child Well Being
+EANTRSH,"Problem in neighb trash, litter",Adult Well Being,EAWBTRASH,Is trash a problem?,Adult and Child Well Being
+EAST1A,U.S. government savings bonds owned,Assets,EOWN_GOVS,"Owned any government securities during the reference period [such as savings bonds, T-Bills, T-Bonds, T-Notes, and government sponsored enterprise (GSE) credit instruments such as Fannie Mae].",Assets
+EAST1B,IRA or Keogh account owned,Assets,EOWN_IRAKEO,Owned any IRA or KEOGH accounts during the reference period.,Assets
+EAST1C,401k or thrift plan owned,Assets,EOWN_THR401,"Owned any 401k, 403b, 503b, or Thrift Savings Plan accounts during the reference period.",Assets
+EAST2A,Interest earning checking account owned,Assets,EOWN_ICHK,Owned any interest-earning checking accounts during the reference period.,Assets
+EAST2B,Savings account owned,Assets,EOWN_SAV,Owned any savings accounts during the reference period.,Assets
+EAST2C,Money market deposit account owned,Assets,EOWN_MM,Owned any money market accounts or money market funds during the reference period.,Assets
+EAST2D,Certificate of deposit owned,Assets,EOWN_CD,Owned any certificates of deposit during the reference period.,Assets
+EAST3A,Mutual funds owned,Assets,EOWN_MF,"Owned any mutual funds during the reference period [such as stock funds, bond funds, and similar long-term assets].",Assets
+EAST3B,Stocks owned,Assets,EOWN_ST,Owned any stocks during the reference period [excluding stock-options].,Assets
+EAST3C,Municipal or corporate bonds owned,Assets,EOWN_MCBD,Owned any municipal or corporate bonds during the reference period.,Assets
+EAST4A,Rental property owned,Assets,EOWN_RP,"Owned any rental property during the reference period [such as residential, commercial, industrial, and land rental property, as well as equipment which is rented out (e.g., tractors and computers)].",Assets
+EAST4C,Other financial investments owned,Assets,EOWN_OINV,"Owned any other financial investments during the reference period [such as coins, collectibles, jewelry, artwork, mortgages paid to him/her, other loans owed to him/her, and royalties].",Assets
+EAUTONUM,Number of vehicles owned by HH,Real Estate,TVEH_NUM,"Number of cars, trucks, or vans owned by the household during the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EAUTOOWN,HH member ownership of vehicle,Real Estate,EOWN_VEH,"Whether any member of the household was the owner of a car, truck, or van during the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EAWOP,Had full-week unpaid absences from work,Labor Force,EJB1_AWOP1,Did you have any time away from work without pay?,Labor Force
+EAWOP,Had full-week unpaid absences from work,Labor Force,EJB1_AWOP2,Did you have a second time away from work without pay?,Labor Force
+EAWOP,Had full-week unpaid absences from work,Labor Force,EJB1_AWOP3,Did you have a third time away from work without pay?,Labor Force
+EAWOP,Had full-week unpaid absences from work,Labor Force,EJB2_AWOP1,Did you have any time away from work without pay?,Labor Force
+EAWOP,Had full-week unpaid absences from work,Labor Force,EJB2_AWOP2,Did you have a second time away from work without pay?,Labor Force
+EAWOP,Had full-week unpaid absences from work,Labor Force,EJB2_AWOP3,Did you have a third time away from work without pay?,Labor Force
+EBDJT,Jointly owned municipal or corporate bonds,Assets,EJSOWNMCBD,"Owned any municipal or corporate bonds jointly during the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+EBDOAST,Solely owned municipal or corporate bonds,Assets,EOOWNMCBD,Owned any municipal or corporate bonds individually during the reference period.,Assets
+EBIZNOW1,Ownership of business,Business,RJB1_CONTFLG,Flag indicating that a job spell continued past month 12,Labor Force
+EBIZNOW2,Ownership of business,Business,RJB2_CONTFLG,Flag indicating that a job spell continued past month 12,Labor Force
+EBMNTH,Month of birth,Demographic,EDOB_BMONTH,Month of birth,Demographics
+EBNO1,Across-wave business index/number,Business,EJB1_JOBID,Unique identifier for a job which is consistent across waves.,Labor Force
+EBNO2,Across-wave business index/number,Business,EJB2_JOBID,Unique identifier for a job which is consistent across waves.,Labor Force
+EBORNUS,Respondent was born in the U.S.,Demographic,EBORNUS,Where was ... born?,Demographics
+EBRKFST,Receipt of school breakfast,Household,EBREAK_YN,Did child usually get the school breakfast that his/her school provided?,Programs
+EBUSCNTR,Number of businesses owned during reference period,Labor Force,RMNUMJOBS,Recode of number of jobs held within the reference month.,Labor Force
+ECDJT,Jointly owned certificates of deposit,Assets,EJSOWNCD,"Owned any certificates of deposit jointly during the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+ECDMTH,Medicaid coverage in this month,Health Insurance,RCDMTH,Recode - Monthly Medicaid coverage  (comparable to prior SIPP Panels),Health Insurance
+ECDOAST,Solely owned certificates of deposit,Assets,EOOWNCD,Owned any certificates of deposit individually during the reference period.,Assets
+ECDUNT1,Medicaid coverage unit for this month,Health Insurance,EMDUNT,Medical Assistance (Medicaid) Coverage Unit; unique within a household. A guardian and children who have Medical Assistance are identified by the same numeric unit value in a month.,Health Insurance
+ECFLAG,Flag indicating an other-work-arrangement worker (contingent worker),Labor Force,EJB1_CONCHK,Flag for definite work arrangement.,Labor Force
+ECFLAG,Flag indicating an other-work-arrangement worker (contingent worker),Labor Force,EJB2_CONCHK,Flag for definite work arrangement.,Labor Force
+ECITIZEN,US Citizenship Status of Respondent,Demographic,ECITIZEN,Is ... a citizen of the United States?,Demographics
+ECKD01A,Arrangement of other parent or stepparent,Child Care,EPAR,Child/any child cared for by other parent/step parent while reference parent worked/went to school.,Child and Dependent Care
+ECKD01A,Arrangement of other parent or stepparent,Child Care,RPAR,Child is cared for by other parent,Child and Dependent Care
+ECKD02A,Arrangement of parent or guardian,Child Care,ESELF,Child/any child cared for by the reference parent while he/she worked/went to school.,Child and Dependent Care
+ECKD02A,Arrangement of parent or guardian,Child Care,RSELF,Child is cared for by parent while working,Child and Dependent Care
+ECKD03A,Arrangement of sibling age 15 or older,Child Care,ESIB15,Child/children cared for by a sibling 15 years or older while reference parent worked/went to school or when not available.,Child and Dependent Care
+ECKD03A,Arrangement of sibling age 15 or older,Child Care,RSIB15,Child is cared for by sibling 15 and older,Child and Dependent Care
+ECKD05A,Arrangement of grandparent,Child Care,EGRAN,Child/children cared for by grandparent while reference parent worked/went to school or when not available.,Child and Dependent Care
+ECKD05A,Arrangement of grandparent,Child Care,RGRAN,Child is cared for by grandparent,Child and Dependent Care
+ECKD06A,Arrangement of any other relative,Child Care,EOTHR,Child/children cared for by other relative while reference parent worked/went to school or when not available.,Child and Dependent Care
+ECKD06A,Arrangement of any other relative,Child Care,ROTHR,Child uses other type of child care,Child and Dependent Care
+ECKD07A,Arrangement of family day care provider,Child Care,EFAM,Child/children cared for by family day care provider while reference parent worked/went to school or was not available.,Child and Dependent Care
+ECKD07A,Arrangement of family day care provider,Child Care,RFAM,Child is in family day care,Child and Dependent Care
+ECKD09A,Arrangement of nursery or preschool,Child Care,ENUR,Child/children cared for in a nursery/preschool while reference parent worked/went to school or was not available.,Child and Dependent Care
+ECKD09A,Arrangement of nursery or preschool,Child Care,RNUR,Child is in nursery care,Child and Dependent Care
+ECKD10A,Arrangement of Head Start program,Child Care,EHEADST,Child/children cared for by a Head Start program while reference parent worked/went to school or was not available.,Child and Dependent Care
+ECKD10A,Arrangement of Head Start program,Child Care,RHEADST,Child is in Head Start,Child and Dependent Care
+ECKD12F,Arrangement of before or after school care program,Child Care,EPROG,Child/children cared for by before/after school program while reference parent worked/went to school or was not available.,Child and Dependent Care
+ECKD12F,Arrangement of before or after school care program,Child Care,RPROG,Child is in before/after school care,Child and Dependent Care
+ECKD13F,Arrangement of a non-relative,Child Care,ENREL,Child/children cared for by other non-relative while reference parent worked/went to school or was not available.,Child and Dependent Care
+ECKD13F,Arrangement of a non-relative,Child Care,RNREL,Child is in non-relative care,Child and Dependent Care
+ECKJT,Jointly owned interest earning checking account,Assets,EJSOWNICHK,"Owned any interest-earning checking accounts jointly during the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+ECKOAST,Solely owned interest earning checking account,Assets,EOOWNICHK,Owned any interest-earning checking accounts individually during the reference period.,Assets
+ECLOTHTP,Type of clothing assistance ... received,General Income,ECLTH_TYPE,"Did ... receive clothes, money or vouchers, or both, to buy clothing?",Programs
+ECLTHSC1,Clothing assistance from-government agency,General Income,ECLTH_SR1YN,Did ... receive assistance from a government social service agency?,Programs
+ECLTHSC2,Clothing assistance from-charity,General Income,ECLTH_SR2YN,Did ... receive assistance from a community or religious charitable organization?,Programs
+ECLTHSC3,Clothing assistance from-family/friends,General Income,ECLTH_SR3YN,Did ... receive assistance from family or friends?,Programs
+ECLTHSC4,Clothing assistance from-employer,General Income,ECLTH_SR4YN,Did ... receive assistance from an employer?,Programs
+ECLTHSC5,Clothing assistance from-some place else,General Income,ECLTH_SR5YN,Did ... receive assistance from someplace else?,Programs
+ECLUBSCH,Does child participate in any clubs,Child Well-Being,ECLUB,Child/children participate in any clubs or organizations after school or on weekends.,Adult and Child Well Being
+ECLUBSCH,Does child participate in any clubs,Child Well-Being,RCLUB,Child is in clubs,Adult and Child Well Being
+ECLWRK1,Class of worker,Job,EJB1_CLWRK,Class of worker,Labor Force
+ECLWRK2,Class of worker,Job,EJB2_CLWRK,Class of worker,Labor Force
+ECLWRK2,Class of worker,Job,EJB3_CLWRK,Class of worker,Labor Force
+ECLWRK2,Class of worker,Job,EJB4_CLWRK,Class of worker,Labor Force
+ECLWRK2,Class of worker,Job,EJB5_CLWRK,Class of worker,Labor Force
+ECLWRK2,Class of worker,Job,EJB6_CLWRK,Class of worker,Labor Force
+ECLWRK2,Class of worker,Job,EJB7_CLWRK,Class of worker,Labor Force
+ECNTRC1,Coverage by union or something like a union contract,Job,EJB1_CNTRC,Was ... covered either by a union contract or something like a union contract?,Labor Force
+ECNTRC2,Coverage by union or something like a union contract,Job,EJB2_CNTRC,Was ... covered either by a union contract or something like a union contract?,Labor Force
+ECRMTH,Medicare coverage in this month,Health Insurance,ECRMTH,Edited Monthly Indicator for Medicare Coverage,Health Insurance
+EDADDINN,Number of days DAD ate dinner with child,Child Well-Being,EDINROP,How many days in a typical week did other parent eat dinner with child/children?,Adult and Child Well Being
+EDADDINN,Number of days DAD ate dinner with child,Child Well-Being,RDINROP,Number of times other parent had dinner with child 0-17.,Adult and Child Well Being
+EDALYDRG,Report of daily prescription medicine usage,Medical Expenses,EDALYDRG,Did ... take prescription medication on a daily basis?,Health Care
+EDAYCARE,Child cared for by non-fam daycare/babysit,Child Well-Being,EDAYCARE,Child/children cared for in child care center while reference parent worked/went to school or was not available.,Child and Dependent Care
+EDAYCARE,Child cared for by non-fam daycare/babysit,Child Well-Being,RDAYCARE,Child is in day care,Child and Dependent Care
+EDAYSICK,Number of sickdays in past 12 months,Medical Expenses,TDAYSICK,How many days did illness or injury keep ... in bed more than half of the day?,Health Care
+EDDELAY,Physical/mental condition,Child Disability,EDDELAY,Does ... have a serious physical or mental condition or a developmental delay that limits ordinary activity?,Disability
+EDIS1,Hearing difficulty,Medical Expenses,EHEARING,Is ... deaf or does he/she have serious difficulty hearing?,Disability
+EDIS2,Vision difficulty,Medical Expenses,ESEEING,Is ... blind or does he/she have serious difficulty seeing?,Disability
+EDIS3,Cognitive difficulty,Medical Expenses,ECOGNIT,"Does ... have serious difficulty concentrating, remembering, or making decisions?",Disability
+EDIS4,Ambulatory difficulty,Medical Expenses,EAMBULAT,Does ... have serious difficulty walking or climbing stairs?,Disability
+EDIS5,Self-care difficulty,Medical Expenses,ESELFCARE,Does ... have difficulty dressing or bathing?,Disability
+EDIS6,Independent living difficulty,Medical Expenses,EERRANDS,Does ... have difficulty doing errands alone?,Disability
+EDISABL,Had a work-limiting physical or mental condition,Labor Force,EDISABL,"Does ... have a physical, mental or other health condition that limits the kind or amount of work he/she can do?",Programs
+EDOCNUM,Frequency of physician contact during visit(s),Medical Expenses,TDOCNUM,How many of the visits or calls include contact with a physician?,Health Care
+EEATDINN,Number of days you ate dinner with child,Child Well-Being,EDINRPAR,How many days in a typical week did reference parent eat dinner with child/children?,Adult and Child Well Being
+EEATDINN,Number of days you ate dinner with child,Child Well-Being,RDINRPAR,Number of times reference parent had dinner with child 0-17.,Adult and Child Well Being
+EEDUCATE,Highest Degree received or grade completed,Education,EEDUC,What is the highest level of school ... completed or the highest degree received by December of (reference year)?,Demographics
+EEGYAST,Receipt of energy assistance,Household,EENERGY_ASST,Did household receive any energy assistance from the government at any time during the reference year?,Programs
+EEGYPMT1,Energy assistance payment by check,Household,EENERGY_PMT1,Energy assistance was received in the form of checks sent to the household.,Programs
+EEGYPMT2,Energy assistance payment by coupons,Household,EENERGY_PMT2,Energy assistance was received in the form of coupons or vouchers sent to the household.,Programs
+EEGYPMT3,"Energy assist paymnt to utils, fuel dealers, landlord",Household,EENERGY_PMT3,"Energy assistance was received in the form of payments sent directly to the utility company, fuel dealer, or landlord.",Programs
+EEMPLOC1,Employer operations in more than one location,Job,EJB1_EMPLOC,Does ... operate in more than one location?,Labor Force
+EEMPLOC2,Employer operations in more than one location,Job,EJB2_EMPLOC,Does ... operate in more than one location?,Labor Force
+EENLEVEL,Level or grade enrolled,Education,EEDGRADE,Grade level of spell of enrollment,Education Enrollment
+EEVERET,Ever retired from a job,Labor Force,EEVERET,Did ... ever retire for any reason from a job or business?,Programs
+EEXPSCHL,Has child been expelled from school,Child Well-Being,EEXPSCH,Child/children ever been suspended or expelled from school?,Adult and Child Well Being
+EEXPSCHL,Has child been expelled from school,Child Well-Being,REXPSCH,Child was expelled,Adult and Child Well Being
+EFCCYN,Receipt of foster child care payments (ISS Code 23),General Income,EFCCANY,Did ... receive foster child care payments at any time during the reference period?,Programs
+EFNP,Number of persons in this family or pseudo family,Family,RFPERSONS,Number of persons in family,Demographics
+EFOODSC1,food assistance source,General Income,EFOOD_SR1YN,Did ... receive assistance from a government social service agency?,Programs
+EFOODSC2,food assistance source,General Income,EFOOD_SR2YN,Did ... receive assistance from a community or religious charitable organization?,Programs
+EFOODSC3,food assistance source,General Income,EFOOD_SR3YN,Did ... receive assistance from family or friends?,Programs
+EFOODSC4,food assistance source,General Income,EFOOD_SR4YN,Did ... receive assistance from someplace else?,Programs
+EFOODTP1,"food assistance received-money, vouchers for groceries",General Income,EFOOD_TYPE1,"Did ... receive money, vouchers, or certificates to buy groceries or food?",Programs
+EFOODTP2,food assistance received-bags of groceries,General Income,EFOOD_TYPE2,Did ... receive bags of groceries or packaged foods?,Programs
+EFOODTP3,food assistance received-meals from shelter/charity,General Income,EFOOD_TYPE3,"Did ... receive assistance from a shelter, soup kitchen, Meals-on-Wheels, or other charity?",Programs
+EFOODTP4,food assistance received-other,General Income,EFOOD_OTH,Did ... receive some other kind of food assistance?,Programs
+EFREELUN,Qualify for free or reduced price school lunch,Household,EFREE_LUNCH,"Were the lunches received free or reduced-price because the family qualified for the School Lunch Program, or full-price because the family did not qualify for the School Lunch Program?",Programs
+EFREFPER,Person number of the family reference person,Family,RFAMREF,Person number of the family reference person,Demographics
+EFTYPE,Type of family (or pseudo-family),Family,RFAMKIND,Kind of family,Demographics
+EGASSCE1,Source of gas vouchers -- gov't agency,General Income,EGAS_SOURCE,Did ... receive gas vouchers through a government social service agency?,Programs
+EGRDRPT1,Grade/year child repeated - ENTRY 1,Child Well-Being,EREPGRD,Has child/any children repeated a grade or been held back?,Adult and Child Well Being
+EGRDRPT2,Grade/year child repeated - ENTRY 2,Child Well-Being,RREPGRD,Child repeated grade,Adult and Child Well Being
+EGRNDPR,Is respondent a grandparent,Fertility History,EGRNDPR,Are you a grandparent?,Fertility History
+EGVJT,Jointly owned U.S. Government securities,Assets,EJSOWNGOVS,Owned any government securities jointly during the reference period [for respondents with a spouse or civil union partner in the household].,Assets
+EGVOAST,Solely owned U.S. Government securities,Assets,EOOWNGOVS,Owned any government securities individually during the reference period.,Assets
+EGVTRNT,Receipt of government subsidized rent,Household,EEHC_RENTSUB,Rent subsidy receipt,Residences
+EGVTRNT,Receipt of government subsidized rent,Household,ERENTSUB,"Is ... rent amount lower because he/she is in a federal, state, or local government housing program?",Coverage
+EHIMTH,Health ins cover this mnth(not Medicare or Medicaid),Health Insurance,RHIMTH,Recode - Monthly Private coverage  (comparable to prior SIPP Panels),Health Insurance
+EHIOLDKD,Coverage of older child (20+) outside the household,Health Insurance,RHIOLDKD,Recode - indicates if child over 18 outside the household was covered by this insurance plan (comparable to prior SIPP Panels),Health Insurance
+EHIOTHER,Health insurance coverage of nonhousehold members,Health Insurance,RHIOTHER,Recode - indicating if anyone outside household was covered by this insurance plan (comparable to prior SIPP Panels),Health Insurance
+EHIOTHR,Coverage of other person(s) outside the household,Health Insurance,RHIOTHR,"Recode - indicates if other person(s) (besides spouse, or younger child, or older child) outside the household was covered by this insurance plan (comparable to prior SIPP Panels)",Health Insurance
+EHIOWNER,"Covered by own plan, someone else's, both or neither",Health Insurance,RHIOWNER,Recode -  policyholder during the month (comparable to prior SIPP Panels),Health Insurance
+EHIRSN01,Reason not covered,Health Insurance,EPRV2END_EXP,Reason(s) Private health insurance coverage ended. (Too expensive),Health Insurance
+EHISPSE,Coverage of spouse outside the household,Health Insurance,RHISPSE,Recode - indicates if spouse outside the household was covered by this insurance plan (comparable to prior SIPP Panels),Health Insurance
+EHIUNT1,1st health insurance coverage unit for this month,Health Insurance,EHIUNT1,Health Insurance Coverage Unit (Private line 1); unique within a household. Members sharing the same coverage plan are identified by the same numeric unit value in a month.,Health Insurance
+EHIUNT2,2nd health insurance coverage unit for this month,Health Insurance,EHIUNT2,Health Insurance Coverage Unit (Private line 2); unique within a household. Members sharing the same coverage plan are identified by the same numeric unit value in a month.,Health Insurance
+EHIYNGKD,Coverage of younger child (under 20) outside the hhld,Health Insurance,RHIYNGKD,Recode - indicates if child under 18 outside the household was covered by this insurance plan (comparable to prior SIPP Panels),Health Insurance
+EHLTSTAT,Report of current health status,Medical Expenses,EHLTSTAT,What is ... health status?,Health Care
+EHMORT,Mortgage on home,Real Estate,EPRDEBT,"Whether there were any mortgages or loans against the primary residence as of December of the reference year [that is not a mobile home; such as mortgages, reverse mortgages, home equity loans, and other debt held against the home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+EHOSPNIT,Number of nights spent in hospital,Medical Expenses,THOSPNIT,How many nights did ... spend in the hospital?,Health Care
+EHOTLUNC,Receipt of a school lunch,Household,ELUNCH_YN,Did child usually get the school lunch that his/her school provided?,Programs
+EHOWWELL,Ability to speak English,Demographic,EHOWWELL,How well does ... speak English?,Demographics
+EHPRTB1,Other owners/partners in household,Business,EJB1_HPRTB,Variable showing if anyone else in the household was an owner or partner in business 1.,Labor Force
+EHPRTB2,Other owners/partners in household,Business,EJB2_HPRTB,Variable showing if anyone else in the household was an owner or partner in business 2.,Labor Force
+EHRSBS1,Usual hours worked per week,Business,TJB1_JOBHRS1,First number of hours worked per week within a job.,Labor Force
+EHRSBS1,Usual hours worked per week,Business,TJB1_JOBHRS2,Second number of hours worked per week within a job.,Labor Force
+EHRSBS1,Usual hours worked per week,Business,TJB1_JOBHRS3,Third number of hours worked per week within a job.,Labor Force
+EHRSBS2,Usual hours worked per week,Business,TJB2_JOBHRS1,First number of hours worked per week within a job.,Labor Force
+EHRSBS2,Usual hours worked per week,Business,TJB2_JOBHRS2,Second number of hours worked per week within a job.,Labor Force
+EHRSBS2,Usual hours worked per week,Business,TJB2_JOBHRS3,Third number of hours worked per week within a job.,Labor Force
+EINCPB1,Incorporated business,Business,EJB1_INCPB,Variable showing if business 1 was incorporated,Labor Force
+EINCPB2,Incorporated business,Business,EJB2_INCPB,Variable showing if business 2 was incorporated,Labor Force
+EJBIND1,Industry code,Job,TJB1_IND,Industry code,Labor Force
+EJBIND2,Industry code,Job,TJB2_IND,Industry code,Labor Force
+EJBIND2,Industry code,Job,TJB3_IND,Industry code,Labor Force
+EJBIND2,Industry code,Job,TJB4_IND,Industry code,Labor Force
+EJBIND2,Industry code,Job,TJB5_IND,Industry code,Labor Force
+EJBIND2,Industry code,Job,TJB6_IND,Industry code,Labor Force
+EJBIND2,Industry code,Job,TJB7_IND,Industry code,Labor Force
+EJNTSSYN,Receipt of joint Social Security payments with spouse,General Income,EJNTSSYN,Did ... receive Social Security income jointly with their spouse?,Programs
+EJOBCANT,Health or condition preventing working,Adult Disability,EJOBCANT,Is ... prevented from working?,Disability
+ELAYOFF,Spent time on layoff from a job,Labor Force,ENJ_LAYOFF,Indicates whether the individual reported spending some time on layoff for a no-job spell associated with the given month.,Labor Force
+ELESSONS,"Does child take music, dance, language lessons",Child Well-Being,ELESSON,"Child/children takes lessons after school (music, dance, language, etc.)",Adult and Child Well Being
+ELESSONS,"Does child take music, dance, language lessons",Child Well-Being,RLESSON,Child takes lessons,Adult and Child Well Being
+ELISTA,On waiting list for care for YOUNGEST child,Child Care,ELIST,Is reference parent on a waiting list for a child care arrangement?,Child and Dependent Care
+ELKWRK,Spent time looking for work,Labor Force,ENJ_LKWRK,Did ... ACTIVELY look for work in one or more weeks (during the no-job spell)?,Labor Force
+ELOSTTH,Report of adult tooth loss,Medical Expenses,ELOSTTH,Has ... lost any of his/her permanent adult teeth?,Health Care
+EMDJT,Jointly owned money market deposit account,Assets,EJSOWNMM,"Owned any money market accounts or money market funds jointly during the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+EMDOAST,Solely owned money market deposit account,Assets,EOOWNMM,Owned any money market accounts or money market funds individually during the reference period.,Assets
+EMHLOAN,Mortgage or debt on mobile home,Real Estate,EMHDEBT,"Whether there were any mortgages or loans against the mobile home as of December of the reference year [such as mortgages, reverse mortgages, installment loans, contracts to purchase, and other debts held against the mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+EMHTYPE,Site or mobile home debt,Real Estate,EMHLOAN1SITE,"Composition of the first mortgage or loan against the mobile home [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EMHTYPE,Site or mobile home debt,Real Estate,EMHLOAN2SITE,"Composition of the second mortgage or loan against the mobile home [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EMOR1INT,Interest rate on first mortgage,Real Estate,EPRLOAN1RATE,"Annual interest rate of the first mortgage or loan against the primary residence [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+EMOR1PGM,First loan FHA/VA mortgage program,Real Estate,EPRLOAN1TYPE,"Type of mortgage of the first mortgage or loan against the primary residence [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+EMOR1VAR,Variable or fixed rate for first home mortgage,Real Estate,EPRLOAN1FXVR,"Type of interest rate of the first mortgage or loan against the primary residence [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+EMOR2INT,Interest rate on 2nd mortgage,Real Estate,EPRLOAN2RATE,"Annual interest rate of the second mortgage or loan against the primary residence [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+EMOR2PGM,2nd loan FHA/VA mortgage program,Real Estate,EPRLOAN2TYPE,"Type of mortgage of the second mortgage or loan against the primary residence [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+EMOR2VAR,Variable/fixed rate for 2nd loan,Real Estate,EPRLOAN2FXVR,"Type of interest rate of the second mortgage or loan against the primary residence [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+EMOTHDIV,Dividends credited against margin accounts,Assets,EJSMFINCTYPE,Type of dividends received from jointly-owned mutual funds during the reference period [for respondents with a spouse or civil union partner in the household].,Assets
+EMOTHDIV,Dividends credited against margin accounts,Assets,EOMFINCTYPE,Type of dividends received from individually-owned mutual funds during the reference period.,Assets
+EMS,Marital status,Demographic,EMS,"Is ... currently married, widowed, divorced, separated, or never married?",Demographics
+ENATCIT,How the respondent became a US citizen,Demographic,ENATCIT,How did ... become a U.S citizen?,Demographics
+ENOINCHK,Did respondent receive routine/preventative care,Medical Expenses,ENOINCHK,Did ... receive any routine or preventative care?,Health Care
+ENOINCLN,Did respondent go to clinic/public health dept,Medical Expenses,ENOINCLN,Where did ... go to get this/those health care service(s)? (Clinic or Public Health Department),Health Care
+ENOINDDS,Did respondent go to a dentist's office,Medical Expenses,ENOINDDS,Where did ... go to get this/those health care service(s)? (Dentist's office),Health Care
+ENOINDNT,Dental care while without health insurance,Medical Expenses,ENOINDNT,"During the month(s) ... was not covered by any health insurance, did he/she go to a dentist or other dental professional?",Health Care
+ENOINDOC,Doctor or other health care while without health ins,Medical Expenses,ENOINDOC,"During the month(s) ... was not covered by any health insurance, did he/she go to a doctor, nurse, or other medical provider?",Health Care
+ENOINDR,Did respondent go to a doctor's office,Medical Expenses,ENOINDR,Where did ... go to get this/those health care service(s)? (Doctor's office),Health Care
+ENOINER,Did respondent go to an emergency room,Medical Expenses,ENOINER,Where did ... go to get this/those health care service(s)? (Emergency Room),Health Care
+ENOINHSP,Did respondent go to a hospital (not emergency rm),Medical Expenses,ENOINHSP,"Where did ... go to get this/those health care service(s)? (Hospital, excluding emergency room)",Health Care
+ENOININC,Was resp. asked income before cost quoted for treat,Medical Expenses,ENOININC,Did anyone ask what ... income was before they set a price for the services?,Health Care
+ENOINOTH,Did respondent go to someplace else,Medical Expenses,ENOINOTH,Where did ... go to get this/those health care service(s)? (Someplace else),Health Care
+ENOINTRT,Did respondent receive treatment,Medical Expenses,ENOINTRT,Did ... receive treatment for an illness or injury?,Health Care
+ENOINVA,Did respondent go to a VA hospital,Medical Expenses,ENOINVA,Where did ... go to get this/those health care service(s)? (VA hospital),Health Care
+ENONHH,Covered by plan owned by person outside household,Health Insurance,RNONHH,Recode - indicating coverage by plan owned by someone outside household during the month (comparable to prior SIPP Panels),Health Insurance
+ENUMMORT,Number of debts on this home,Real Estate,TPRLOAN_NUM,"Number of mortgages or loans against the primary residence as of December of the reference year [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOINCB1,Receipt of non-salary income,Business,EJB1_OINCB,Spell variable showing if there was any additional income received by the respondent through business 1.,Labor Force
+EOINCB2,Receipt of non-salary income,Business,EJB2_OINCB,Spell variable showing if there was any additional income received by the respondent through business 2.,Labor Force
+EORIGIN,"Spanish, Hispanic or Latino",Demographic,EORIGIN,"Is ... Spanish, Hispanic, or Latino?",Demographics
+EOTHRE,Household owns other real estate,Real Estate,EOWN_RE,Owned any other real estate during the reference period [such as vacation homes and undeveloped lots].,Assets
+EOTHVEH,Own other Vehicle,Real Estate,EOWN_RECV,"Whether any member of the household owned a motorcycle, boat, RV, or other recreational vehicle during the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWE,Money owed for first other vehicle,Real Estate,EBOATDEBT,"Whether any money was owned on the boat as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWE,Money owed for first other vehicle,Real Estate,EMCYCDEBT,"Whether any money was owned on the motorcycle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWE,Money owed for first other vehicle,Real Estate,EORECDEBT,"Whether any money was owned on the other recreational vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWE,Money owed for first other vehicle,Real Estate,ERVDEBT,"Whether any money was owned on the RV as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWN1,1st owner of 1st other vehicle,Real Estate,EBOATOWNER1,"Person number of the first owner of the boat as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWN1,1st owner of 1st other vehicle,Real Estate,EMCYCOWNER1,"Person number of the first owner of the motorcycle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWN1,1st owner of 1st other vehicle,Real Estate,EORECOWNER1,"Person number of the first owner of the other recreational vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWN1,1st owner of 1st other vehicle,Real Estate,ERVOWNER1,"Person number of the first owner of the RV as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWN2,2nd owner of 1st other vehicle,Real Estate,EBOATOWNER2,"Person number of the second owner of the boat as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWN2,2nd owner of 1st other vehicle,Real Estate,EBOATOWNER3,"Person number of the third owner of the boat as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWN2,2nd owner of 1st other vehicle,Real Estate,EMCYCOWNER2,"Person number of the second owner of the motorcycle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWN2,2nd owner of 1st other vehicle,Real Estate,EORECOWNER2,"Person number of the second owner of the other recreational vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOV1OWN2,2nd owner of 1st other vehicle,Real Estate,ERVOWNER2,"Person number of the second owner of the RV as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOVBOAT,Anyone own a boat?,Real Estate,EREC_BOAT,"Ownership of a boat by anyone in the household during the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOVMTRCY,Anyone own a motorcycle?,Real Estate,EREC_MCYC,"Ownership of a motorcycle by anyone in the household during the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOVOTHRV,Anyone own any other vehicle,Real Estate,EREC_OREC,"Ownership of any other recreational vehicle by anyone in the household during the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EOVRV,Anyone own an RV?,Real Estate,EREC_RV,"Ownership of a RV by anyone in the household during the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EPACASH1,Whether ... or child received cash assistance,General Income,ETANFOWN,This question determines the owner of the TANF benefits for this spell.,Programs
+EPAOTHR2,"How about child care services or assistance (since reference month 1 1st,) so you could go to work or school or training?",General Income,ECHLD_ANY,Did ... receive any child care services or assistance in order to go to work or school or training?,Child and Dependent Care
+EPAOTHR5,Whether ... received housing assistance,General Income,EHOUSE_ANY,Did ... receive assistance to help pay for housing?,Programs
+EPARREAD,Times in past week child read to by design parent,Child Well-Being,EREADCWB,How many days in a typical week did reference parent read to child/children?,Adult and Child Well Being
+EPARREAD,Times in past week child read to by design parent,Child Well-Being,RREADCWB,Number of times reference parent read to child 0-5.,Adult and Child Well Being
+EPARTB11,Person number of partner 1,Business,EJB1_PARTB1,Person number of partner in the household,Labor Force
+EPARTB12,Person number of partner 1,Business,EJB2_PARTB1,Person number of partner in the household,Labor Force
+EPARTB21,Person number of partner 2,Business,EJB1_PARTB2,Person number of partner in the household,Labor Force
+EPARTB22,Person number of partner 2,Business,EJB2_PARTB2,Suppressed,Labor Force
+EPARTB31,Person number of partner 3,Business,EJB1_PARTB3,Suppressed,Labor Force
+EPARTB32,Person number of partner 3,Business,EJB2_PARTB3,Suppressed,Labor Force
+EPAYHR1,Paid by the hour,Job,EJB1_PAYHR1,Type of first pay rate,Labor Force
+EPAYHR1,Paid by the hour,Job,EJB1_PAYHR2,Type of second pay rate,Labor Force
+EPAYHR1,Paid by the hour,Job,EJB1_PAYHR3,Type of third pay rate,Labor Force
+EPAYHR2,Paid by the hour,Job,EJB2_PAYHR1,Type of first pay rate,Labor Force
+EPAYHR2,Paid by the hour,Job,EJB2_PAYHR2,Type of second pay rate,Labor Force
+EPAYHR2,Paid by the hour,Job,EJB2_PAYHR3,Type of third pay rate,Labor Force
+EPAYRECV,Payments received,Child Support,ECSANY,Did ... receive child support payments at any time during the reference period?,Programs
+EPDJBTHN,Paid job during the reference period,Labor Force,EJB1_SCRNR,Flag indicating the presence of job 1 during the reference year,Labor Force
+EPDJBTHN,Paid job during the reference period,Labor Force,EJB2_SCRNR,Flag indicating the presence of job 2 during the reference year,Labor Force
+EPERSPY1,First of several persons who paid rent,Real Estate,ERMU_PAYER1,"Person number of the first household member who paid for basic utilities and/or mortgage or rent in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EPERSPY2,2nd of several persons who paid rent,Real Estate,ERMU_PAYER2,"Person number of the second household member who paid for basic utilities and/or mortgage or rent in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EPERSPY3,Third of several persons who paid rent,Real Estate,ERMU_PAYER3,"Person number of the third household member who paid for basic utilities and/or mortgage or rent in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+EPNDAD,Person number of father,Demographic,EPNPAR2,Person number of parent 2,Demographics
+EPNMOM,Person number of mother,Demographic,EPNPAR1,Person number of parent 1,Demographics
+EPNSPOUS,Person number of spouse,Demographic,EPNSPOUSE,Person number of spouse,Demographics
+EPRESDRG,Prescription medication use in the last 12 months,Medical Expenses,EPRESDRG,Did ... take any prescription medications?,Health Care
+EPREVTEN,Type of tenure of the previous,Migration History,EEHC_PVTEN,This is the tenure of the residence that precedes the residence of the spell that includes Month1 of the reference year.,Residences
+EPROPB1,Type of proprietorship,Business,EJB1_PROPB,Variable showing if business 1 was a partnership.,Labor Force
+EPROPB2,Type of proprietorship,Business,EJB2_PROPB,Variable showing if business 2 was a partnership.,Labor Force
+EPSSTHRU,Receipt of child support as bonus/passthru,General Income,EPTCS,"At any time during this period, did ... receive any child support as a bonus or pass-through from a state or county welfare program, or any disregard payment?",Programs
+EPTRESN,Main reason for working less than 35 hours,Labor Force,EJB1_PTRESN1,What is/was the main reason ... worked less than 35 hours per week?,Labor Force
+EPTRESN,Main reason for working less than 35 hours,Labor Force,EJB1_PTRESN2,What is/was the main reason ... worked less than 35 hours per week?,Labor Force
+EPTRESN,Main reason for working less than 35 hours,Labor Force,EJB1_PTRESN3,What is/was the main reason ... worked less than 35 hours per week?,Labor Force
+EPTRESN,Main reason for working less than 35 hours,Labor Force,EJB2_PTRESN1,What is/was the main reason ... worked less than 35 hours per week?,Labor Force
+EPTRESN,Main reason for working less than 35 hours,Labor Force,EJB2_PTRESN2,What is/was the main reason ... worked less than 35 hours per week?,Labor Force
+EPTRESN,Main reason for working less than 35 hours,Labor Force,EJB2_PTRESN3,What is/was the main reason ... worked less than 35 hours per week?,Labor Force
+EPVANEXP,How much were annual expenses for work related items,Work Related Expenses - Child Support Paid,TJB1_PVOEXPC,What is the annual amount of ... other job-related expenses?,Labor Force
+EPVCOMUT,How much were...'s weekly commute expenses?,Work Related Expenses - Child Support Paid,TJB1_PVOTHRC,How much are ... work commuting expenses?,Labor Force
+EPVMILWK,How many miles did...drive to work?,Work Related Expenses - Child Support Paid,TJB1_PVMILE,How many miles did ... drive each way as part of his/her commute?,Labor Force
+EPVPAPRK,Did...work related expenses include paid parking?,Work Related Expenses - Child Support Paid,EJB1_PVPARK,Did ... pay any parking or tolls?,Labor Force
+EPVPAYWK,How much did...spend for parking or tolls?,Work Related Expenses - Child Support Paid,TJB1_PVPARKC,How much did ... spend on parking and tolls?,Labor Force
+EPVWK1,Drive own vehicle to work?,Work Related Expenses - Child Support Paid,EJB1_PVWKTR1,Edited variable indicating whether the respondent drove his own vehicle to work,Labor Force
+EPVWK2,Did ... car/van pool to work?,Work Related Expenses - Child Support Paid,EJB1_PVWKTR2,Edited variable indicating whether the respondent was a rider in someone else's vehicle/van pool to work,Labor Force
+EPVWK3,Did ... use the public transit?,Work Related Expenses - Child Support Paid,EJB1_PVWKTR3,Edited variable indicating whether the respondent took a bus to work,Labor Force
+EPVWK3,Did ... use the public transit?,Work Related Expenses - Child Support Paid,EJB1_PVWKTR4,Edited variable indicating whether the respondent took rail to work,Labor Force
+EPVWK3,Did ... use the public transit?,Work Related Expenses - Child Support Paid,EJB1_PVWKTR5,Edited variable indicating whether the respondent took other public transportation to work,Labor Force
+EPVWK4,Did ... bike/walk to work?,Work Related Expenses - Child Support Paid,EJB1_PVWKTR6,Edited variable indicating whether the respondent walked to work,Labor Force
+EPVWK4,Did ... bike/walk to work?,Work Related Expenses - Child Support Paid,EJB1_PVWKTR7,Edited variable indicating whether the respondent walked to work,Labor Force
+EPVWK5,Did ... get to work some other way?,Work Related Expenses - Child Support Paid,EJB1_PVWKTR8,Edited variable indicating whether the respondent drove a company vehicle to work,Labor Force
+EPVWK5,Did ... get to work some other way?,Work Related Expenses - Child Support Paid,EJB1_PVWKTR9,Edited variable indicating whether the respondent worked from home,Labor Force
+EPVWK5,Did ... get to work some other way?,Work Related Expenses - Child Support Paid,EJB1_PVWKTRA,Edited variable indicating whether the respondent got to work another way,Labor Force
+EPVWKEXP,Did...have to pay for work related licenses?,Work Related Expenses - Child Support Paid,EJB1_PVOEXP,Did ... have any other job-related expenses?,Labor Force
+ER05,Receipt of State Unemployment Comp. (ISS Code 5),General Income,EUC1MNYN,"Whether regular, government-provided Unemployment Compensation payments were received in a given month",Programs
+ER06,Receipt of Supplemental Unemployment Benefits,General Income,EUC2MNYN,"Whether supplemental, employer-provided Unemployment Compensation payments were received in a given month",Programs
+ER10,Receipt of Workers Compensation (ISS Code 10),General Income,EWCMNYN,Did ... receive Workers' Compensation in this month of the reference period (1- 12)?,Programs
+ER20,Receipt of public assistance payments (ISS Code 20),General Income,RTANFYN,Recoded variable indicating whether respondent is covered by the TANF benefit in this month,Programs
+ER21,Receipt of General Assistance or General Relief,General Income,TGAYN,Recoded variable indicating whether respondent is covered by the GA benefit in this month,Programs
+ER25,Receipt of WIC (ISS Code 25),General Income,RWICYN,Recoded variable indicating whether respondent is covered by the WIC benefit in this month,Programs
+ER27,Receipt of food stamps (ISS Code 27),General Income,RFSYN,Recoded variable indicating whether respondent is covered by the SNAP benefit in this month,Programs
+ERACE,The race(s) the respondent is,Demographic,ERACE,What race(s) does ... consider herself/himself to be?,Demographics
+ERACE,The race(s) the respondent is,Demographic,TRACE,What race(s) does ... consider herself/himself to be? (detailed categories) Multi-race individuals are included in ERACE as well as TRACE.,Demographics
+ERELAT01,The 1st person in the hh is this person's [blank].,Household Relationships,ERELRP,Household relationship (old values),Demographics
+ERELIG,How often child goes to religious event,Child Well-Being,ERELIG,"In the past year, how often did child/children go to religious services or religious social or school events?",Adult and Child Well Being
+ERELIG,How often child goes to religious event,Child Well-Being,RRELIG,Frequency attending religious services with child 6-17,Adult and Child Well Being
+ERENDB1,Reason business ended,Business,EJB1_RENDB,What is the main reason ... gave up or ended this business?,Labor Force
+ERENDB2,Reason business ended,Business,EJB2_RENDB,What is the main reason ... gave up or ended this business?,Labor Force
+ERIOWN,Rental property owned in own name,Rental Properties,EOOWNRP,Owned any rental properties individually during the reference period.,Assets
+ERJOWN,Own rental property jointly with spouse,Rental Properties,EJSOWNRP,"Owned any rental properties jointly during the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+EROLOVR1,Money rolled over into IRA/other type of retirement,General Income,EROLLOVR1,Did ... re-invest or roll over the lump sum payment into an IRA or other retirement plan?,Programs
+EROLOVR2,Plan to roll over money into IRA/other retirement,General Income,EROLLOVR2,Does ... plan on re-investing or rolling over any of the lump sum payment into an IRA or other retirement plan?,Programs
+ERRP,Household relationship,Demographic,ERELRPE,Household relationship (detailed categories),Demographics
+ERSEND1,Main reason stopped working for employer,Job,EJB1_RSEND,What is the main reason ... stopped working for his/her employer?,Labor Force
+ERSEND2,Main reason stopped working for employer,Job,EJB2_RSEND,What is the main reason ... stopped working for his/her employer?,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK1,Why didn't ... work for pay?  Temporarily unable to work because of an injury,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK10,Why didn't ... work for pay?  Not interested in working at a job,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK11,Why didn't ... work for pay?  Usually worked 15 or more hours per week without pay in a family business or farm,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK12,Why didn't ... work for pay?  Other Reason,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK2,Why didn't ... work for pay?  Temporarily unable to work because of an illness,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK3,Why didn't ... work for pay? Unable to work because of chronic health condition or disability,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK4,Why didn't ... work for pay?  Retired,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK5,Why didn't ... work for pay? Pregnancy/childbirth,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK6,Why didn't ... work for pay?  Taking care of children/other persons,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK7,Why didn't ... work for pay?  Going to school,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK8,Why didn't ... work for pay? Unable to find work,Labor Force
+ERSNOWRK,Main reason for not having a job during the reference period,Labor Force,ENJ_NOWRK9,Why didn't ... work for pay?  On layoff (temporary or indefinite),Labor Force
+ERTOWN,Rental property held jointly with other than spouse,Rental Properties,EJOOWNRP,Owned any rental properties jointly during the reference period [for respondents without a spouse or civil union partner in the household].,Assets
+ESELFCAA,YOUNGEST child cared for self,Child Care,EKIDSELF,Child/children cared for themselves while reference parent was not there.,Child and Dependent Care
+ESELFCAA,YOUNGEST child cared for self,Child Care,RKIDSELF,Child cares for self,Child and Dependent Care
+ESEX,Sex of this person,Demographic,ESEX,Sex of this person,Demographics
+ESKOOLWK,Physical/learning/mental condition,Child Disability,ESKOOLWK,Does ... have any limitations in his/her ability to do regular school work?,Disability
+ESLRYB1,Salary draw from business,Business,EJB1_BSLRYB,"Did/does ... draw a regular salary from ... - that is, take a regular paycheck, as opposed to just treating the profits as income?",Labor Force
+ESLRYB2,Salary draw from business,Business,EJB2_BSLRYB,"Did/does ... draw a regular salary from ... - that is, take a regular paycheck, as opposed to just treating the profits as income?",Labor Force
+ESMI,Stocks or funds owned in own name,Stocks and Mutual Funds,EOOWNMF,Owned any mutual funds individually during the reference period.,Assets
+ESMI,Stocks or funds owned in own name,Stocks and Mutual Funds,EOOWNST,Owned any stocks individually during the reference period.,Assets
+ESMJM,Mutual funds owned jointly with spouse,Stocks and Mutual Funds,EJSOWNMF,"Owned any mutual funds jointly during the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+ESMJS,Stocks owned jointly with spouse,Stocks and Mutual Funds,EJSOWNST,"Owned any stocks jointly during the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+ESOTHDIV,Dividends credited to margin account,Assets,EJSSTINCTYPE,Type of dividends received from jointly-owned stocks during the reference period [for respondents with a spouse or civil union partner in the household].,Assets
+ESOTHDIV,Dividends credited to margin account,Assets,EOSTINCTYPE,Type of dividends received from individually-owned stocks during the reference period.,Assets
+ESPEAK,Speak language other than English,Demographic,ESPEAK,Does ... speak a language other than English at home?,Demographics
+ESPECSCH,Is child a gifted student,Child Well-Being,EGIFTED,Child/children in gifted class/classes.,Adult and Child Well Being
+ESPECSCH,Is child a gifted student,Child Well-Being,RGIFTED,Child is in a gifted class,Adult and Child Well Being
+ESPORTEA,Is child on a sports team,Child Well-Being,ESPORT,Child/children play on a sports team in or out of school?,Adult and Child Well Being
+ESPORTEA,Is child on a sports team,Child Well-Being,RSPORT,Child plays sports,Adult and Child Well Being
+ESUPKDYN,Support payments for child(ren) living outside HH,Support for Nonhousehold Members,ESUPPORTPAY,Did ... pay any child support for this/these children?,Programs
+ESUPOTRL,Relationship to person supporting,Support for Nonhousehold Members,EOTHSUPRT1YN,Respondent paid support to a parent or parents who lived elsewhere.,Programs
+ESUPOTRL,Relationship to person supporting,Support for Nonhousehold Members,EOTHSUPRT2YN,Respondent paid  support to children 21 or older who lived elsewhere.,Programs
+ESUPOTRL,Relationship to person supporting,Support for Nonhousehold Members,EOTHSUPRT3YN,Respondent paid support to someone else related who lived elsewhere.,Programs
+ESUPOTRL,Relationship to person supporting,Support for Nonhousehold Members,EOTHSUPRT4YN,Respondent paid  support to an ex-spouse or ex-partner who lived elsewhere.,Programs
+ESUPOTRL,Relationship to person supporting,Support for Nonhousehold Members,EOTHSUPRT5YN,Respondent paid  support to someone else not related who lived elsewhere.,Programs
+ESUPTAM1,Total number of days spent with child(ren)(A),Support for Nonhousehold Members,ETIMESPENT,How much time did ... spend with his/her child(ren) under that age of 21 that lived elsewhere.,Programs
+ESVJT,Ownership of jointly held savings account,Assets,EJSOWNSAV,"Owned any savings accounts jointly during the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+ESVOAST,Ownership of solely held savings account,Assets,EOOWNSAV,Owned any savings accounts individually during the reference period.,Assets
+ETENURE,Ownership status of living quarters,Household,EEHC_TEN,Tenure of the residence.,Residences
+ETENURE,Ownership status of living quarters,Household,ETENURE,"Are ... living quarters owned, rented, or occupied without payment of rent?",Coverage
+ETIAMT01,Time lost last month due to child care failures,Child Care,ETIMELOST,Time lost from work due to problems with child care arrangements.,Child and Dependent Care
+ETIAMT02,Unit of time lost because of child care failures,Child Care,ETIMELOST_TP,Amount of time lost from work due to child care problems.,Child and Dependent Care
+ETOKSCE1,Where ... received subway/bus tokens--gov't agency,General Income,ETOKEN_SOURCE,Did ... receive bus or subway tokens or passes through a government social service agency?,Programs
+ETRANTP1,Whether ... received transportation assistance -- gas vouchers,General Income,ETRANS_TYPE1,Did ... receive gas vouchers?,Programs
+ETRANTP2,Whether ... received transportation assistance -- bus or subway tokens,General Income,ETRANS_TYPE2,Did ... receive bus or subway tokens or passes?,Programs
+ETRANTP3,Whether ... received transportation assistance -- help with car,General Income,ETRANS_TYPE3,"Did ... receive help registering, repairing, or insuring a car?",Programs
+ETRANTP4,Whether ... received transportation assistance -- ride to doctors,General Income,ETRANS_TYPE4,Did ... receive rides to a doctor's office or medical appointment?,Programs
+ETRANTP5,Whether ... received transportation assistance -- other,General Income,ETRANS_OTH,Did ... receive some other kind of transportation assistance?,Programs
+ETYPDAD,Type of child to father,Demographic,EPAR1TYP,Type of relationship to parent 1,Demographics
+ETYPMOM,Type of child to mother,Demographic,EPAR2TYP,Type of relationship to parent 2,Demographics
+EUECTYP5,Receipt of State unemployment comp. (ISS Code 5),General Income,EUCTYP1YN,"Did ... receive regular, government-provided Unemployment Compensation payments?",Programs
+EUECTYP6,Receipt of Supplemental Unemployment Benefits,General Income,EUCTYP2YN,"Did ... receive supplemental, employer-provided Unemployment Compensation payments?",Programs
+EUNION1,Union/employee-association membership,Job,EJB1_UNION,"At ..., was ... a member of either a labor union or an employee association like a union?",Labor Force
+EUNION2,Union/employee-association membership,Job,EJB2_UNION,"At ..., was ... a member of either a labor union or an employee association like a union?",Labor Force
+EUTILYN,Payment of utilities in public housing units,Household,EUTILITIES,"(In addition to rent), the household paid (separately) for water, electricity, gas, or oil?",Programs
+EVAQUES,Veteran's annual income questionnaire,Armed Forces,EVAQUES,Was ... required to fill out an annual income questionnaire in order to receive benefit payments from the Department of Veteran Affairs?,Programs
+EVAYN,Receipt of payments from the VA this wave,Armed Forces,EVAANY,Did ... receive any benefit payments from the Department of Veterans Affairs at any time during the reference period?,Programs
+EVBOW1,Percent of Business owned for first business,Value of Business,EBSJ1PEROWN,Percent ownership of first business owned as a job as of the end of the reference period.,Assets
+EVBOW2,Percent of Business owned for second business,Value of Business,EBSJ2PEROWN,Percent ownership of second business owned as a job as of the end of the reference period.,Assets
+EVISDENT,Frequency of dental visits in past 12 months,Medical Expenses,TVISDENT,How many visits has ... made to a dentist or other dental professional?,Health Care
+EVISDOC,"Frequency of medical provider visits, past 12 months",Medical Expenses,TVISDOC,"How many times did ... see or talk to a doctor, nurse, or any other type of medical provider about his/her health?",Health Care
+EWELAC21,"Did you attend job readiness to learn about resume writing, job interviewing, or building self-esteem",,EWELACTV2_1,"Did ... attend any job readiness training to learn about resume writing, job interviewing, or building self-esteem?",Programs
+EWELAC22,"Did you attend a job search program or job club, or use a job resource center to find out about jobs, to schedule interviews, or to fill our applicati",,EWELACTV2_2,"Did ... attend any job search program or job clubs, or use any job resource centers to find out about jobs, to schedule interviews, or to fill out applications?",Programs
+EWELAC23,"Did you attend training to learn a specific job skill, such as computers, car repair, nursing, day care work, or some other job skill?",,EWELACTV2_3,"Did ... attend any training to learn specific job skills, such as computers, car repair, nursing, day care work, or some other job skills?",Programs
+EWELACT1,Did you attend classes to improve basic reading?,,EWELACTV1,Did ... attend any classes to improve basic reading or math skills?,Programs
+EWELACT3,"Did ... attend job training because the state or county welfare office required it, or because you choose to do it, or for BOTH reasons?",,EWELACTV3,"Did ... attend training or using job resources because it was required, a choice, or both?",Programs
+EWELACT4,"At any time since ... 1st, did ... participate in a work experience program, such as a community service job?",,EWELACTV4,Did ... participate in a work experience program in exchange for TANF?,Programs
+EWHOPA1A,Government helped pay for YOUNGEST child's care,Child Care,EWHOPAID1,Did welfare or social service help pay for child care?,Child and Dependent Care
+EWHOPA2A,Other parent helped pay for YOUNGEST child's care,Child Care,EWHOPAID3,Did non-resident parent help pay for child care?,Child and Dependent Care
+EWHOPA3A,Employer helped pay for YOUNGEST child's care,Child Care,EWHOPAID2,Did employer help pay for child care,Child and Dependent Care
+EWHOPA4A,Someone else helped pay for YOUNGEST child's care,Child Care,EWHOPAID5,Did an other option help pay for child care?,Child and Dependent Care
+EWORKMOR,Child care problems hinder more time at work/school,Child Care,EWORKMORE,Did child care arrangements prevent reference parent from working or working more?,Child and Dependent Care
+EWSBEG1,Time of day work began in job 1,Work Schedule,TJB1_WSBEG,What time of the day did ... begin work most days?,Labor Force
+EWSBEG1,Time of day work began in job 1,Work Schedule,TJB2_WSBEG,What time of the day did ... begin work most days?,Labor Force
+EWSDAY11,Worked Sundays in job 1,Work Schedule,EJB1_WSWHSUN,Worked on Sundays,Labor Force
+EWSDAY12,Worked Mondays in job 1,Work Schedule,EJB1_WSWHMON,Worked on Mondays,Labor Force
+EWSDAY13,Worked Tuesdays in job 1,Work Schedule,EJB1_WSWHTUE,Worked on Tuesdays,Labor Force
+EWSDAY14,Worked Wednesdays in job 1,Work Schedule,EJB1_WSWHWED,Worked on Wednesdays,Labor Force
+EWSDAY15,Worked Thursdays in job 1,Work Schedule,EJB1_WSWHTHU,Worked on Thursdays,Labor Force
+EWSDAY16,Worked Fridays in job 1,Work Schedule,EJB1_WSWHFRI,Worked on Fridays,Labor Force
+EWSDAY17,Worked Saturdays in job 1,Work Schedule,EJB1_WSWHSAT,Worked on Saturdays,Labor Force
+EWSDAY21,Worked Sundays in job 2,Work Schedule,EJB2_WSWHSUN,Worked on Sundays,Labor Force
+EWSDAY22,Worked Mondays in job 2,Work Schedule,EJB2_WSWHMON,Worked on Mondays,Labor Force
+EWSDAY23,Worked Tuesdays in job 2,Work Schedule,EJB2_WSWHTUE,Worked on Tuesdays,Labor Force
+EWSDAY24,Worked Wednesdays in job 2,Work Schedule,EJB2_WSWHWED,Worked on Wednesdays,Labor Force
+EWSDAY25,Worked Thursdays in job 2,Work Schedule,EJB2_WSWHTHU,Worked on Thursdays,Labor Force
+EWSDAY26,Worked Fridays in job 2,Work Schedule,EJB2_WSWHFRI,Worked on Fridays,Labor Force
+EWSDAY27,Worked Saturdays in job 2,Work Schedule,EJB2_WSWHSAT,Worked on Saturdays,Labor Force
+EWSDY11,Worked at home on Sundays in job1,Work Schedule,EJB1_WSHMSUN,Worked from home on Sundays,Labor Force
+EWSDY12,Worked at home on Mondays in job1,Work Schedule,EJB1_WSHMMON,Worked from home on Mondays,Labor Force
+EWSDY13,Worked at home on Tuesdays in job1,Work Schedule,EJB1_WSHMTUE,Worked from home on Tuesdays,Labor Force
+EWSDY14,Worked at home on Wednesdays in job1,Work Schedule,EJB1_WSHMWED,Worked from home on Wednesdays,Labor Force
+EWSDY15,Worked at home on Thursdays in job1,Work Schedule,EJB1_WSHMTHU,Worked from home on Thursdays,Labor Force
+EWSDY16,Worked at home on Fridays in job1,Work Schedule,EJB1_WSHMFRI,Worked from home on Fridays,Labor Force
+EWSDY17,Worked at home on Saturdays in job1,Work Schedule,EJB1_WSHMSAT,Worked from home on Saturdays,Labor Force
+EWSDY21,Worked at home on Sundays in job2,Work Schedule,EJB2_WSHMSUN,Worked from home on Sundays,Labor Force
+EWSDY22,Worked at home on Mondays in job2,Work Schedule,EJB2_WSHMMON,Worked from home on Mondays,Labor Force
+EWSDY23,Worked at home on Tuesdays in job2,Work Schedule,EJB2_WSHMTUE,Worked from home on Tuesdays,Labor Force
+EWSDY24,Worked at home on Wednesdays in job2,Work Schedule,EJB2_WSHMWED,Worked from home on Wednesdays,Labor Force
+EWSDY25,Worked at home on Thursdays in job2,Work Schedule,EJB2_WSHMTHU,Worked from home on Thursdays,Labor Force
+EWSDY26,Worked at home on Fridays in job2,Work Schedule,EJB2_WSHMFRI,Worked from home on Fridays,Labor Force
+EWSDY27,Worked at home on Saturdays in job2,Work Schedule,EJB2_WSHMSAT,Worked from home on Saturdays,Labor Force
+EWSEND2,Time of day work ended in job 2,Work Schedule,TJB2_WSEND,What time of the day did ... end work most days?,Labor Force
+EWSHMWK1,Worked only at home in job 1,Work Schedule,EJB1_WSHMWRK,Were there any days when ... worked only from home?,Labor Force
+EWSHMWK2,Worked only at home in job 2,Work Schedule,EJB2_WSHMWRK,Were there any days when ... worked only from home?,Labor Force
+EWSHRS2,Number of hours per day in job2,Work Schedule,TJB1_WSEND,What time of the day did ... end work most days?,Labor Force
+EWSJOB1,Type of schedule work for job 1,Work Schedule,EJB1_WSJOB,What is the best description of ... work schedule?,Labor Force
+EWSJOB2,Type of schedule work for job 2,Work Schedule,EJB2_WSJOB,What is the best description of ... work schedule?,Labor Force
+EWSMNR1,Reason for type of work schedule- job 1,Work Schedule,EJB1_WSMNR,What is the main reason ... worked this type of schedule?,Labor Force
+EWSMNR2,Reason for type of work schedule- job 2,Work Schedule,EJB2_WSMNR,What is the main reason ... worked this type of schedule?,Labor Force
+EXMAR,Number of times married in lifetime,Edited Marital History,EXMAR,Number of times married,Marital History
+ICERT,Ever earned this type of certificate,Certifications and Certificates,ECERT,"Has...earned an educational certificate at a college, university, community college, or trade school?",Education Enrollment
+IPROCERT,Have a professional or state or industry cert,Certifications and Certificates,EPROCERT,Has...earned a professional certification or license?,Education Enrollment
+IWHOPCER,Who awarded this certification or license,Certifications and Certificates,EWHOCERT1,"Certification or license issued by federal, state, or local government",Education Enrollment
+IWHOPCER,Who awarded this certification or license,Certifications and Certificates,EWHOCERT2,Certification or license issued by professional or trade association,Education Enrollment
+IWHOPCER,Who awarded this certification or license,Certifications and Certificates,EWHOCERT3,Certification or license issued by business or company,Education Enrollment
+IWHOPCER,Who awarded this certification or license,Certifications and Certificates,EWHOCERT4,Certification or license issued by other group or organization,Education Enrollment
+RAB1R1,1st reason applied for Pub Asst/AFDC/TANF 1st time,General Income,ETANFBRSN1,First reason TANF receipt began,Programs
+RAB1R2,2nd reason applied for Pub Asst/AFDC/TANF 1st time,General Income,TTANFBRSN2,Recoded second reason TANF receipt began,Programs
+RANYAGRE,Child support payments ever agreed to or awarded,Child Support,ECSAGREE,Have child support payments ever been court ordered or informally agreed to for person's child(ren)?,Programs
+RAS1,Reason stopped AFDC/TANF the first time,General Income,TTANFERSN1,Recoded first reason TANF receipt ended,Programs
+RCHAMPM,Military related health care coverage in this month,Health Insurance,EMLMTH,Edited Monthly Indicator for Military Coverage,Health Insurance
+RCUOW21A,Person number of first owner of Gen Assist coverage,Coverage,EGAOWN,This question determines the owner of the GA benefits for this spell.,Programs
+RCUOWN03,Person number of the owner of the Federal SSI coverage,Coverage,ESSI_OWNER,Who received payments on behalf of ... ?,Programs
+RCUOWN25,Person number of the owner of the WIC coverage,Coverage,EWICOWN,This question determines the owner of the WIC benefits for this spell.,Programs
+RCUTYP03,Federal SSI coverage flag,Coverage,RSSICOV,SSI coverage at any time during reference year,Programs
+RCUTYP20,Public assistance payments program coverage flag,Coverage,RTANFCOV,TANF coverage at any time during reference year,Programs
+RCUTYP21,General Assistance coverage flag,Coverage,RGACOV,GA coverage at any time during reference year,Programs
+RCUTYP25,WIC coverage flag,Coverage,RWICCOV,WIC coverage at any time during reference year,Programs
+RCUTYP27,food Stamp coverage flag,Coverage,RFSCOV,SNAP coverage at any time during reference year,Programs
+RDESGPNT,Designated parent or guardian flag,Demographic,ERP,Identifies if adult is a reference parent to any household children under 18 years old,Child and Dependent Care
+REMPDRSN,Reason for receipt of employer disability payments,General Income,EDISTYP2YN,Did ... receive employer disability payments?,Programs
+RENROLL,Enrolled Full/Part sometime during 4 month period,Education,EEDFTPT,Asks whether spell of enrollment was full or part-time.,Education Enrollment
+RENROLL,Enrolled Full/Part sometime during 4 month period,Education,RENROLL,Recode for monthly enrollment status,Education Enrollment
+RESTARSN,Reason for receiving income from estates and trusts,General Income,ESURTYP11YN,Did ... receive Survivor Benefit payments from an estate or trust?,Programs
+RFB1R2,2nd reason for applying for food stamps the 1st time,General Income,EFSBRSN2,Second reason FS receipt began.,Programs
+RFCSRSN,Reason for receipt of federal civilian pension,General Income,EDISTYP4YN,Did ... receive disability income from a Federal civil service or other Federal civilian employee pension?,Programs
+RFCSRSN,Reason for receipt of federal civilian pension,General Income,ERETTYP2YN,Did ... receive retirement income from a Federal civil service or other Federal civilian employee pension?,Programs
+RFCSRSN,Reason for receipt of federal civilian pension,General Income,ESURTYP3YN,Did ... receive Survivor Benefits from Federal Civil Service or other Federal Civilian employee pension?,Programs
+RFID,Family ID Number for this month,Family,RFAMNUM,Family number,Demographics
+RFNKIDS,Total number of children under 18 in family,Family,RFRELU18,Number of persons in family under 18 years,Demographics
+RFPOV,Poverty threshold for this family in this month,Family,RFPOV,"Family poverty threshold in this month, excluding Type 2 individuals",Poverty and Income
+RGB1R1,1st reason applying for General Asst the 1st time,General Income,TGABRSN1,Recoded first reason GA receipt began,Programs
+RGB1R2,2nd reason applying for General Asst the 1st time,General Income,TGABRSN2,Recoded second reason GA receipt began,Programs
+RGED,Completed high school by GED or equivalency,Education,RGED,Did respondent complete high school by diploma or GED?,Education Enrollment
+RGS1,Reason for stopping General Assist the 1st time,General Income,TGAERSN1,Recoded first reason GA receipt ended,Programs
+RHHSTK,Equity in stocks and mutual fund shares,Real Estate,THVAL_STMF,"Household-level sum of value of stocks and mutual funds (TVAL_STMF) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+RHHUSCBT,Total Unsecured Debt,Real Estate,THDEBT_USEC,"Household-level sum of value of amount owed on all unsecured debt (TDEBT_USEC) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+RHPOV,Poverty threshold for this household in this month,Household,RHPOV,"Household poverty threshold in this month, excluding Type 2 individuals",Poverty and Income
+RINSRSN,Reason for payment from own insurance policy,General Income,EDISTYP1YN,"Did ... receive payments from a sickness, accident, or disability insurance policy?",Programs
+RINSRSN,Reason for payment from own insurance policy,General Income,EDISTYPTWO,"Did ... receive payments from a sickness, accident, or disability insurance policy that he/she purchased on his/her own?",Programs
+RLGOVRSN,Reason for receipt of local government pension,General Income,EDISTYP6YN,Did ... receive disability income from a Local government pension?,Programs
+RLGOVRSN,Reason for receipt of local government pension,General Income,ERETTYP4YN,Did ... receive retirement income from a Local government pension?,Programs
+RLGOVRSN,Reason for receipt of local government pension,General Income,ESURTYP6YN,Did ... receive Survivor Benefits from a local government pension?,Programs
+RLIFIRSN,Reason for payments from paid-up life ins. policy,General Income,ELIFEREG,Did ... retirement income from a paid-up life insurance policy or annuity come as a single lump-sum?,Programs
+RLIFIRSN,Reason for payments from paid-up life ins. policy,General Income,ESURTYP7YN,Did ... receive Survivor Benefits from a paid-up life insurance policy or annuity?,Programs
+RLNGISOL,Linguistic isolation,Demographic,RLNGISOL,"Recode indicating if respondent lives in a limited English-speaking household (a household in which no one 14 and over speaks English or speaks a language other than English at home and speaks English ""Very well"").",Demographics
+RMESR,Employment status recode for month,Labor Force,RMESR,Recode for monthly employment status.,Labor Force
+RMHRSWK,Usual hours worked per week recode in month,Labor Force,TMWKHRS,Average number of hours worked per week at all jobs held during the reference month.,Labor Force
+RMILRSN,Reason for receipt of U.S. military retirement,General Income,EDISTYP7YN,Did ... receive disability income from a U.S. Military retirement?,Programs
+RMILRSN,Reason for receipt of U.S. military retirement,General Income,ERETTYP5YN,Did ... receive retirement income from  Military retirement pay?,Programs
+RMILRSN,Reason for receipt of U.S. military retirement,General Income,ESURTYP8YN,Did ... receive Survivor Benefits from a Military retirement pay?,Programs
+RMWKLKG,Number of weeks looking for work/on layoff in month,Labor Force,RMWKLKG,Number of weeks looking for a job or on layoff during the month.,Labor Force
+RMWKSAB,Number of weeks absent without pay from job in month,Labor Force,RMWKSAB,Number of weeks absent without pay from a job during the month.,Labor Force
+RMWKWJB,Number of weeks with a job in month,Labor Force,RMWKWJB,Number of weeks with a job during the month.,Labor Force
+ROTHRRSN,Reason for receipt of 'other' retirement income,General Income,EDISTYP10YN,Did ... receive disability income from other disability income?,Programs
+ROTHRRSN,Reason for receipt of 'other' retirement income,General Income,ERETTYP8YN,Did ... receive retirement income from other retirement income?,Programs
+ROTHRRSN,Reason for receipt of 'other' retirement income,General Income,ESURTYP13YN,Did ... receive other survivor income?,Programs
+RPENSRSN,Reason for pension from company or union,General Income,EDISTYP3YN,Did ... receive disability income from a pension from a company or union including income from a profit-sharing plan?,Programs
+RPENSRSN,Reason for pension from company or union,General Income,ERETTYP1YN,Did ... receive retirement income from a company or union including income from a profit-sharing plan?,Programs
+RPENSRSN,Reason for pension from company or union,General Income,ESURTYP1YN,Did ... receive Survivor Benefits from a pension from a company or union including income from a profit-sharing plan?,Programs
+RRRSN,Reason for receipt of Railroad Retirement pay,General Income,EDISTYP8YN,Did ... receive disability income from a U.S. Government railroad retirement?,Programs
+RRRSN,Reason for receipt of Railroad Retirement pay,General Income,ERETTYP6YN,Did ... receive retirement income from U.S. Government railroad retirement?,Programs
+RRRSN,Reason for receipt of Railroad Retirement pay,General Income,ESURTYP4YN,Did ... receive Survivor Benefits from the U.S. government railroad retirement?,Programs
+RSB1R1,1st reason applying for SSI the 1st time,General Income,ESSI_BRSN1,Why did ... begin receiving SSI in ESSI_BMONTH? (First reason for receipt beginning in ESSI_BMONTH),Programs
+RSB1R2,2nd reason applying for SSI the 1st time,General Income,TSSI_BRSN2,Why did ... begin receiving SSI in ESSI_BMONTH? (Recoded second reason for receipt beginning in ESSI_BMONTH),Programs
+RSS1,Reason for stopping SSI the first time,General Income,TSSI_ERSN1,Why did ... stop receiving SSI in ESSI_EMONTH? (Recoded first reason for receipt ending in ESSI_EMONTH),Programs
+RSTATRSN,Reason for receipt of state government pension,General Income,EDISTYP5YN,Did ... receive disability income from a State government pension?,Programs
+RSTATRSN,Reason for receipt of state government pension,General Income,ERETTYP3YN,Did ... receive retirement income from a State government pension?,Programs
+RSTATRSN,Reason for receipt of state government pension,General Income,ESURTYP5YN,Did ... receive Survivor Benefits from a state government pension?,Programs
+RVETSRSN,Reason for receipt of Veterans' comp. or pensions,General Income,ESURTYP2YN,Did ... receive Survivor Benefits from Veterans' compensation or pension?,Programs
+RWB1R1,First reason for applying for WIC the 1st time,General Income,EWICBRSN1,First reason WIC receipt began,Programs
+RWB1R2,Second reason for applying for WIC the 1st time,General Income,TWICBRSN2,Recoded second reason WIC receipt began,Programs
+RWCMPRSN,Reason for receipt of workers' compensation,General Income,ESURTYP10YN,Did ... receive Survivor Benefits from Workers' compensation?,Programs
+RWKESR1,Employment Status Recode for Week 1,Labor Force,RWKESR1,Employment status recode for week 1,Labor Force
+RWKESR2,Employment Status Recode for Week 2,Labor Force,RWKESR2,Employment status recode for week 2,Labor Force
+RWKESR3,Employment Status Recode for Week 3,Labor Force,RWKESR3,Employment status recode for week 3,Labor Force
+RWKESR4,Employment Status Recode for Week 4,Labor Force,RWKESR4,Employment status recode for week 4,Labor Force
+RWKESR5,Employment Status Recode for Week 5,Labor Force,RWKESR5,Employment status recode for week 5,Labor Force
+RWKSPERM,Number of weeks in this month,Labor Force,RWKSPERM,Number of weeks in the month,Labor Force
+RWS1,Reason for stopping WIC the first time,General Income,EWICERSN1,First reason WIC receipt ended,Programs
+T01AMTA,Amount of Social Security - Adult (ISS Code 1),General Income,TSSSAMT,"How much did ... receive in Social Security benefit payment in this month (1-12), including any deductions for Medicare premiums?",Programs
+T01AMTK,Amount of Social Security - Child (ISS Code 1),General Income,TSSCAMT,How much did ... receive in Social Security benefit payment on behalf of a child(ren) in this month (1-12) of the reference period?,Programs
+T02AMT,Amount of Railroad Retirement (ISS Code 2),General Income,TDIS8AMT,How much did ... receive in disability income from a U.S. Government railroad retirement this month (1-12)?,Programs
+T02AMT,Amount of Railroad Retirement (ISS Code 2),General Income,TRET6AMT,How much retirement income did ... receive from a U.S. Government railroad retirement this month (1-12)?,Programs
+T02AMT,Amount of Railroad Retirement (ISS Code 2),General Income,TSUR4AMT,How much survivor income did ... receive from the U.S. Government Railroad Retirement during this month (1-12)?,Programs
+T02AMT,Amount of Railroad Retirement (ISS Code 2),General Income,TSUR7AMT,How much survivor income did ... receive from U.S. Government Railroad Retirement during this month (1-12)?,Programs
+T03AMTA,Amount of Federal SSI - Adult (ISS Code 3),General Income,TSSI_AMT,SSI payment amount for this month,Programs
+T05AMT,Amount of State unemployment compensation,General Income,TUC1AMT,"Amount of regular, government-provided Unemployment Compensation payments received in each month of reference period.",Programs
+T06AMT,Amount of Supplemental Unemployment Benefits,General Income,TUC2AMT,"Amount of supplemental, employer-provided Unemployment Compensation payments received in each month of reference period.",Programs
+T08AMT,Amount of Veterans compensation or pension,General Income,TSUR2AMT,How much survivor income did ... receive from Veterans' compensation during this month (1-12)?,Programs
+T10AMT,Amount of workers' compensation (ISS Code 10),General Income,TSUR10AMT,Suppressed,Programs
+T10AMT,Amount of workers' compensation (ISS Code 10),General Income,TWCAMT,How much did ... receive in workers' compensation in this month of the reference period (1-12)?,Programs
+T13AMT,"Amount of own sickness, accident, disability insur.",General Income,TDIS1AMT,"How much did ... receive in payments from a sickness, accident, or disability insurance policy  this month (1-12)?",Programs
+T14AMT,Amount of employer disability payments (ISS Code 14),General Income,TDIS2AMT,How much did ... receive in employer disability payments this month (1-12)?,Programs
+T15AMT,Amount of severance pay (ISS Code 15),General Income,ELMPNOW,Did ... receive any severance pay or lump sum payments from a pension or retirement plan during the reference period?,Programs
+T20AMT,Amount of public assistance payments (ISS Code 20),General Income,TTANF_AMT,TANF amount received in  this month,Programs
+T21AMT,Amount of General Assistance or General Relief,General Income,TGA_AMT,GA amount received in this month,Programs
+T23AMT,Amount of foster child care payments (ISS Code 23),General Income,TFCCAMT,Amount of foster child care payments received in each month of reference period.,Programs
+T25AMT,Amount of WIC payments (ISS Code 25),General Income,TWICAMT,WIC amount received in this month,Programs
+T27AMT,Amount of food stamps (ISS Code 27),General Income,TFS_AMT,Food stamps amount received in this month,Programs
+T28AMT,Amount of child support payments (ISS Code 28),General Income,TCSAMT,Amount of child support payments received in each month of reference period.,Programs
+T29AMT,Amount of alimony payments (ISS Code 29),General Income,TALIAMT,Amount of alimony  payments received in each month of reference period.,Programs
+T30AMT,Amount of pension from a company or union,General Income,TDIS3AMT,How much did ... receive in disability income from a pension from a company or union including from a profit-sharing plan this month (1-12)?,Programs
+T30AMT,Amount of pension from a company or union,General Income,TRET1AMT,How much retirement income did ... receive from a pension from a company or union including income from a profit sharing plan this month (1-12)?,Programs
+T30AMT,Amount of pension from a company or union,General Income,TSUR1AMT,How much survivor income did ... receive in pension from a company or union including income from a profit-sharing plan during this month (1-12)?,Programs
+T31AMT,Amount of Federal Civil Service pension (ISS Code 31),General Income,TDIS4AMT,How much did ... receive in Federal civil service or other federal civilian  employee pension this month (1-12)?,Programs
+T31AMT,Amount of Federal Civil Service pension (ISS Code 31),General Income,TRET2AMT,How much retirement income did ... receive from a Federal civil service or other Federal civilian employee pension this month (1-12)?,Programs
+T31AMT,Amount of Federal Civil Service pension (ISS Code 31),General Income,TSUR3AMT,How much survivor income did ... receive from the Federal Civil Service or other Federal civilian employee pension during this month (1-12)?,Programs
+T31AMT,Amount of Federal Civil Service pension (ISS Code 31),General Income,TSUR6AMT,How much survivor income did ... receive from Federal Civil Service or other Federal civilian employee pension during this month (1-12)?,Programs
+T32AMT,Amount of U.S. Military retirement pay,General Income,TDIS7AMT,How much did ... receive in disability income from a Military retirement pension this month (1-12)?,Programs
+T32AMT,Amount of U.S. Military retirement pay,General Income,TRET5AMT,How much retirement income did ... receive from a Military retirement pay  this month (1-12)?,Programs
+T32AMT,Amount of U.S. Military retirement pay,General Income,TSUR8AMT,How much survivor income did ... receive from military retirement pay during this month (1-12)?,Programs
+T34AMT,Amount of State government pension (ISS Code 34),General Income,TDIS5AMT,How much did ... receive in disability income from a State government pension this month (1-12)?,Programs
+T34AMT,Amount of State government pension (ISS Code 34),General Income,TSUR5AMT,How much survivor income did ... receive from a state government during this month (1-12)?,Programs
+T35AMT,Amount of local government pension (ISS Code 35),General Income,TDIS6AMT,How much did ... receive in disability income from a Local government pension this month (1-12)?,Programs
+T35AMT,Amount of local government pension (ISS Code 35),General Income,TRET3AMT,How much retirement income did ... receive from a State government pension this month (1-12)?,Programs
+T35AMT,Amount of local government pension (ISS Code 35),General Income,TRET4AMT,How much retirement income did ... receive from a Local government pension this month (1-12)?,Programs
+T36AMT,Amount of income from paid-up life insurance policy,General Income,TLIFEAMT,What was the total amount of life insurance payments ... received?,Programs
+T38AMT,"Amt. from other retirement, disability or survivor",General Income,TDIS10AMT,How much did ... receive in other disability income this month (1-12)?,Programs
+T38AMT,"Amt. from other retirement, disability or survivor",General Income,TRET8AMT,How much retirement income did ... receive from other retirement income this month (1-12)?,Programs
+T38AMT,"Amt. from other retirement, disability or survivor",General Income,TSUR13AMT,How much other survivor income did ... receive during this month (1-12)?,Programs
+T52AMT,Amount of lump sum payments (ISS Code 52),General Income,TLMPAMT,"What was the total amount of lump sum payments ... received during the reference period from a pension or retirement plan, or severance pay, or some other type of lump sum payment?",Programs
+TA1AMT,Amount owed for 1st vehicle,Real Estate,TVEH1DEBTVAL,"Amount owed the first vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TA1YEAR,Car Year for First Vehicle,Real Estate,TVEH1_YEAR,Model year of the first vehicle that was reported,Assets
+TA2AMT,Amount owed for second vehicle,Real Estate,TVEH2DEBTVAL,"Amount owed the second vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TA2YEAR,Car Year for Second Vehicle,Real Estate,TVEH2_YEAR,Model year of the second vehicle that was reported,Assets
+TA3AMT,Amount owed for third vehicle,Real Estate,TVEH3DEBTVAL,"Amount owed the third vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TA3YEAR,Car Year for Third Vehicle,Real Estate,TVEH3_YEAR,Model year of the third vehicle that was reported,Assets
+TAGE,Age as of last birthday,Demographic,TAGE,Age as of last birthday,Demographics
+TAGESS,Age Social Security Disability payments began,General Income,TSSAGESS,At what age did ... begin receiving social security benefits because of his/her disability?,Programs
+TALICHA,Est of non-interest checking accounts in own name,Assets and Liabilities,TOCHKVAL,Value of individually-owned regular (non-interest-earning) checking accounts as of the last day of the reference period.,Assets
+TALIDAB,Amount owed for store bills/credit cards in own name,Assets and Liabilities,TOCCDEBTVAL,Amount of credit card and store bills owed in own name only as of the last day of the reference period.,Assets
+TALIDAO,Amount owed for other debt in own name,Assets and Liabilities,TOOTDEBTVAL,Amount of other debts owed in own name only as of the last day of the reference period.,Assets
+TALJCHA,Estimate of a joint non-interest checking account,Assets and Liabilities,TJSCHKVAL,"Share of value of jointly-owned regular (non-interest-earning) checking accounts as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TALJDAB,Amt owed for store bills or credit cards with spouse,Assets and Liabilities,TJSCCDEBTVAL,Share of credit card debt or store bills owed jointly with a spouse or civil union partner as of the last day of the reference period.,Assets
+TALJDAO,Amount owed for other debt with spouse,Assets and Liabilities,TJSOTDEBTVAL,Share of other debts owed jointly with a spouse or civil union partner as of the last day of the reference period.,Assets
+TALLIV,Cash value of life insurance policies,Assets and Liabilities,TLIFE_CVAL,Cash value of life insurance policies as of the last day of the reference period.,Assets
+TALRB,Market value of IRA account(s) in own name,Assets and Liabilities,TIRAKEOVAL,Value of IRA and KEOGH accounts as of the last day of the reference period.,Assets
+TALSBV,Face Value of U.S. Savings Bonds,Assets and Liabilities,TOGOVSVAL,Value of individually-owned government securities as of the last day of the reference period.,Assets
+TALTB,"Market value of 401k,403b,or thrift plan in own name",Assets and Liabilities,TTHR401VAL,"Value of 401k, 403b, 503b, and Thrift Savings Plan accounts as of the last day of the reference period.",Assets
+TAMTAGEN,Amount that agency collected on your behalf,Child Support,TPTAG_AMT,How much did ... receive from  agency pass through child support this month (1-12)?,Programs
+TBDJTINT,Amt of monthly interest from joint municipal bonds,Assets,TJSMCBDINC,"Share of total interest income earned over the reference period from jointly-owned municipal and corporate bonds [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse/partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TBDOINT,Amount of monthly int. from own municipal/corp bonds,Assets,TOMCBDINC,Total interest income earned over the reference period from individually-owned municipal and corporate bonds.,Assets
+TBMSUM1,Income received this month,Business,TJB1_MSUM,Monthly earnings from job 1.,Labor Force
+TBMSUM2,Income received this month,Business,TJB2_MSUM,Monthly earnings from job 2.,Labor Force
+TBRSTATE,State or country of birth,Migration History,TBORNPLACE,Recoded Place of Birth,Demographics
+TBSOCC1,Occupation code,Business,TJB1_OCC,Occupation code,Labor Force
+TBYEAR,Year of birth,Demographic,TDOB_BYEAR,Year of birth,Demographics
+TCARVAL2,Car value for second vehicle,Real Estate,TVEH2VAL,"Value of the second vehicle in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TCARVAL3,Car value for third vehicle,Real Estate,TVEH3VAL,"Value of the third vehicle in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TCDJTINT,Amount of monthly interest from joint CDs,Assets,TJSCDINC,"Share of total interest income earned over the reference period from jointly-owned certificates of deposit [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse/partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TCDOINT,Amount of monthly interest from solely owned CDs,Assets,TOCDINC,Total interest income earned over the reference period from individually-owned certificates of deposit [for all respondents].,Assets
+TCKJTINT,Amount of monthly interest from joint checking account,Assets,TJSICHKINC,"Share of total interest income earned over the reference period from jointly-owned interest-earning checking accounts [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse/partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TCKOINT,Amount of monthly interest from own checking account,Assets,TOICHKINC,Total interest income earned over the reference period from individually-owned interest-earning checking accounts.,Assets
+TDIVINC,Total amount of all dividend income,Assets,TINC_STMF,"Person-level sum of income earned over the reference period from stocks and mutual funds (TJSSTINC, TJOSTINC, TOSTINC, TJSMFINC, TJOMFINC, TOMFINC).",Assets
+TEBDATE1,Date operation of business ended,Business,EJB1_EMONTH,The ending month of a job spell with employer 1,Labor Force
+TEBDATE1,Date operation of business ended,Business,EJB1_ENDWK,Last week in the reference period where the job was held.,Labor Force
+TEBDATE2,Date operation of business ended,Business,EJB2_EMONTH,The ending month of a job spell with employer 2,Labor Force
+TEBDATE2,Date operation of business ended,Business,EJB2_ENDWK,Last week in the reference period where the job was held.,Labor Force
+TEMPALL1,Number of employees at all locations,Job,TJB1_EMPALL,About how many people are employed by ... at ALL LOCATIONS together?,Labor Force
+TEMPALL2,Number of employees at all locations,Job,TJB2_EMPALL,About how many people are employed by ... at ALL LOCATIONS together?,Labor Force
+TEMPB1,Maximum number of employees,Business,TJB1_EMPB,"What is the maximum number of employees, including ..., working for ... at any given time?",Labor Force
+TEMPB2,Maximum number of employees,Business,TJB2_EMPB,"What is the maximum number of employees, including ..., working for ... at any given time?",Labor Force
+TEMPSIZ1,Employees at worker's location,Job,EJB1_EMPSIZE,About how many people are employed by ... at the location where ... works?,Labor Force
+TEMPSIZ2,Employees at worker's location,Job,EJB2_EMPSIZE,About how many people are employed by ... at the location where ... works?,Labor Force
+TFBRTHYR,Year first child was born,Fertility History,TYEAR_FB,Year of first birth,Fertility History
+TFIPSST,FIPS State Code,Household,TEHC_ST,Monthly state of residence,Residences
+TFMYEAR,Edited year of first marriage.,Edited Marital History,TYRFIRSTMARR,Year of first marriage,Marital History
+TFRCHL,Fertility History Topical Module Variables,Fertility History,TCEB,Children ever born/fathered,Fertility History
+TFTOTINC,Total family income for this month,Family,TFTOTINC,Sum of the reported monthly earning and income amounts received by all individuals in a family during the reference year,Poverty and Income
+TGVJTINT,Amount of monthly int from joint US Govt securities,Assets,TJSGOVSINC,"Share of total interest income earned over the reference period from jointly-owned government securities [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse/partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TGVOINT,Amount of monthly int from own US Govt securities,Assets,TOGOVSINC,Total interest income earned over the reference period from individually-owned government securities.,Assets
+THHBEQ,Business Equity,Real Estate,THEQ_BUS,"Household-level sum of equity in businesses (REQ_BUS) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHDEBT,Total debt recode,Real Estate,THDEBT_AST,"Household-level sum of all debt (TDEBT_AST) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHINTBK,Interest Earning assets held in banking institutions,Real Estate,THVAL_BANK,"Household-level sum of value of assets held at financial institutions (TVAL_BANK) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHINTOT,Interest Earning assets held in other Institutions,Real Estate,THVAL_BOND,"Household-level sum of value of other interest-earning assets (TVAL_BOND) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHIRA,Equity in IRA and KEOGH accounts,Real Estate,THVAL_RET,"Household-level sum of value of retirement accounts (TVAL_RET) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHMORTG,Total Debt owed on Home,Real Estate,THDEBT_HOME,"Household-level sum of debt against primary residence (TDEBT_HOME) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHORE,Equity in real estate that is not your own home,Real Estate,THEQ_RE,"Household-level sum of equity in other real estate (TEQ_RE) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHORE,Equity in real estate that is not your own home,Real Estate,THEQ_RENT,"Household-level sum of equity in rental properties (TEQ_RENT) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHOTAST,Equity in other assets,Real Estate,THVAL_OTH,"Household-level sum of value of other assets (TVAL_OTH) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHSCDBT,Total secured debt recode,Real Estate,THDEBT_SEC,"Household-level sum of all secured debt (TDEBT_SEC) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHTHEQ,Home Equity recode,Real Estate,THEQ_HOME,"Household-level sum of equity in primary residence (TEQ_HOME) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHTNW,Total Net Worth Recode,Real Estate,THNETWORTH,"Household-level net worth [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHTWLTH,Total Wealth recode,Real Estate,THVAL_AST,"Household-level sum of all asset values (TVAL_AST) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THHVEHCL,Net equity in vehicles,Real Estate,THEQ_VEH,"Household-level sum of equity in vehicles (TEQ_VEH) [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THOMEAMT,Monthly rent or mortgage,Real Estate,TRENTMORT,"Amount the household paid for rent or mortgage in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+THTOTINC,Total household income,Household,THTOTINC,"Sum of all earnings and income received by a household, from all household members age 15 and older for each month of the reference year",Poverty and Income
+TIAITA,Amount in own interest earning account,Interest Earnings,TOCDVAL,Value of individually-owned certificates of deposits (CDs) as of the last day of the reference period.,Assets
+TIAITA,Amount in own interest earning account,Interest Earnings,TOICHKVAL,Value of individually-owned interest-earning checking accounts as of the last day of the reference period.,Assets
+TIAITA,Amount in own interest earning account,Interest Earnings,TOMMVAL,Value of individually-owned money market accounts and money market mutual funds as of the last day of the reference period.,Assets
+TIAITA,Amount in own interest earning account,Interest Earnings,TOSAVVAL,Value of individually-owned savings accounts as of the last day of the reference period.,Assets
+TIAJTA,Amount in joint interest earning account,Interest Earnings,TJSCDVAL,"Share of value of jointly-owned certificates of deposit (CDs) as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TIAJTA,Amount in joint interest earning account,Interest Earnings,TJSICHKVAL,"Share of value of jointly-owned interest-earning checking accounts as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TIAJTA,Amount in joint interest earning account,Interest Earnings,TJSMMVAL,"Share of value of jointly-owned money market accounts and money market mutual funds as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TIAJTA,Amount in joint interest earning account,Interest Earnings,TJSSAVVAL,"Share of value of jointly-owned savings accounts as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TIMJA,Amount in joint bonds/US securities,Interest Earnings,TJSGOVSVAL,"Share of value of jointly-owned government securities as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TIMJA,Amount in joint bonds/US securities,Interest Earnings,TJSMCBDVAL,"Share of value of jointly-owned municipal and corporate bonds as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TIMSTAT,Immigration status upon entry to the U.S.,Migration History,TIMSTAT,What was ... immigration status when he/she first moved to the United States?,Demographics
+TINTINC,Amount of all interest income,Assets,TINC_BANK,"Person-level sum of income earned over the reference period from interest-earning assets held at financial institutions (TJSICHKINC, TJOICHKINC, TOICHKINC, TJSSAVINC, TJOSAVINC, TOSAVINC, TJSMMINC, TJOMMINC, TOMMINC, TJSCDINC, TJOCDINC, TOCDINC).",Assets
+TINTINC,Amount of all interest income,Assets,TINC_BOND,"Person-level sum of income earned over the reference period from other interest-earning assets (TJSGOVSINC, TJOGOVSINC, TOGOVSINC, TJSMCBDINC, TJOMCBDINC, TOMCBDINC).",Assets
+TJACLR,Amt of net rent from prop. held jointly with spouse,Assets,TJSRPNETINC,"Share of net income earned over the reference period from jointly-owned rental property [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TJACLR2,Amount of net income from rental property with others,Assets,TJORPNETINC,Share of net income earned over the reference period from jointly-owned rental property [for respondents without a spouse or civil union partner in the household].,Assets
+TJARNT,Amount of gross rent from property joint with spouse,Assets,TJSRPGROINC,"Share of total gross income earned over the reference period from jointly-owned rental property [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TLANG1,What language is spoken at home,Demographic,TLANG1,What language does ... speak at home?,Demographics
+TLMYEAR,Edited last year for marriage.,Edited Marital History,TYRCURRMARR,Year of current marriage,Marital History
+TMDJTINT,Amount of monthly interest on joint money market,Assets,TJSMMINC,"Share of total interest income earned over the reference period from jointly-owned money market deposit accounts and money market funds [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse/partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TMDOINT,Amt of monthly interest from own money market deposit,Assets,TOMMINC,Total interest income earned over the reference period from individually-owned money market deposit accounts and money market funds.,Assets
+TMHVAL,Amount mobile would sell for,Real Estate,TMHVAL,"Value of mobile home owned as primary residence as of December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TMJNTDIV,Amount of check from jointly held mutual funds,Assets,TJSMFINC,"Share of dividend income earned over the reference period from jointly-owned mutual funds [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse/partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TMOR1YRS,Total years for payments of home loan,Real Estate,TPRLOAN1YRS,"Total number of years over which payments are to be made on the first mortgage or loan against the primary residence [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+TMOR2YRS,Total years for payments of 2nd mortgage,Real Estate,TPRLOAN2YRS,"Total number of years over which payments are to be made on the second mortgage or loan against the primary residence [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+TMOVEUS,Year moved to the United States,Migration History,TYRENTRY,When did ... come to live in the U.S.?,Demographics
+TMOVRFLG,Mover flag,Person,RMOVER,Recoded variable indicating mover status,Residences
+TMOWNDIV,Amount of check from solely held mutual funds,Assets,TOMFINC,Total dividend income earned over the reference period from individually-owned mutual funds.,Assets
+TOACLR,Amount of net income from own rental property,Assets,TORPNETINC,Net income earned over the reference period from individually-owned rental property.,Assets
+TOAEQ,Equity in investments,Other Financial Assets,TOINVVAL,Total balance or market value of other financial investments as of the last day of the reference period.,Assets
+TOARNT,Amount of gross rent from own property,Assets,TORPGROINC,Total gross income earned over the reference period from individually-owned rental property.,Assets
+TOTHPROP,Amount of total other property income,Assets,TINC_RENT,"Person-level sum of net income from rental properties (TJSRPNETINC, TJORPNETINC, TORPNETINC).",Assets
+TOTHREVA,Equity in other real estate,Real Estate,TJOREVAL,Share of value of jointly-owned other real estate as of the last day of the reference period [for respondents without a spouse or civil union partner in the household].,Assets
+TOTHREVA,Equity in other real estate,Real Estate,TJSREVAL,"Share of value of jointly-owned other real estate as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TOTHREVA,Equity in other real estate,Real Estate,TOREVAL,Value of other real estate owned in own name as of the last day of the reference period.,Assets
+TOV1AMT,Amount owed for first other vehicle,Real Estate,TBOATDEBTVAL,"Amount owed on the boat as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TOV1AMT,Amount owed for first other vehicle,Real Estate,TMCYCDEBTVAL,"Amount owed on the motorcycle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TOV1AMT,Amount owed for first other vehicle,Real Estate,TORECDEBTVAL,"Amount owed on the other recreational vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TOV1AMT,Amount owed for first other vehicle,Real Estate,TRVDEBTVAL,"Amount owed on the RV as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TOV1VAL,1st other vehicle value,Real Estate,TBOATVAL,"Value of the boat as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TOV1VAL,1st other vehicle value,Real Estate,TMCYCVAL,"Value of the motorcycle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TOV1VAL,1st other vehicle value,Real Estate,TORECVAL,"Value of the other recreational vehicle as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TOV1VAL,1st other vehicle value,Real Estate,TRVVAL,"Value of the RV as of the last day of the reference period [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TPEARN,Total person's earned income for the reference month,Person,TPEARN,Sum of earnings and profits/losses from all jobs.,Labor Force
+TPERSAM1,Amount first person paid for rent,Real Estate,TRMU_AMT1,"Amount paid by the first household member who paid for basic utilities and/or mortgage or rent in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TPERSAM2,Amount second person paid for rent,Real Estate,TRMU_AMT2,"Amount paid by the second household member who paid for basic utilities and/or mortgage or rent in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TPERSAM3,Amount third person paid for rent,Real Estate,TRMU_AMT3,"Amount paid by the third household member who paid for basic utilities and/or mortgage or rent in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TPOTHINC,Total person's other income for the reference month,Person,TPOTHINC,"A monthly income recode variable, which is the sum of the reported monthly amounts received by an individual from other income sources, such as: survivor benefits, retirement benefits, disability benefits, foster child care payments, child support payments, alimony payments, lump sum payments, deferred payments from prior job, life insurance payments, or miscellaneous income sources.",Poverty and Income
+TPRFTB1,Net profit or loss,Business,EJB1_PFTLOSS,"Variable indicating if the respondent's business made a profit, a net loss or broke even for the year.",Labor Force
+TPRFTB1,Net profit or loss,Business,TJB1_PRFTB,Amount of profit/loss a business made after correcting for any salary/wages that may have been paid to the owner.,Labor Force
+TPRFTB2,Net profit or loss,Business,EJB2_PFTLOSS,"Variable indicating if the respondent's business made a profit, a net loss or broke even for the year.",Labor Force
+TPRFTB2,Net profit or loss,Business,TJB2_PRFTB,Amount of profit/loss a business made after correcting for any salary/wages that may have been paid to the owner.,Labor Force
+TPROPVAL,Current value of property,Real Estate,TPRVAL,"Property value of primary residence as of December of the reference year [that is not a mobile home; this is household-level data, therefore this value is copied to every member of the household].",Assets
+TPTRNINC,Total means-tested cash transfer for the reference month,Person,TPTRNINC,"The sum of the reported monthly amounts received by an individual from  TANF, SSI, Pass-through child support payments, General Assistance, or general relief",Poverty and Income
+TPYRATE1,Regular hourly pay rate,Job,TJB1_HOURLY1,What is/was the gross dollar amount of ... the first hourly pay rate before any taxes and other deductions?,Labor Force
+TPYRATE1,Regular hourly pay rate,Job,TJB1_HOURLY2,What is/was the gross dollar amount of ... the second hourly pay rate before any taxes and other deductions?,Labor Force
+TPYRATE1,Regular hourly pay rate,Job,TJB1_HOURLY3,What is/was the gross dollar amount of ... the third hourly pay rate before any taxes and other deductions?,Labor Force
+TPYRATE2,Regular hourly pay rate,Job,TJB2_HOURLY1,What is/was the gross dollar amount of ... the first hourly pay rate before any taxes and other deductions?,Labor Force
+TPYRATE2,Regular hourly pay rate,Job,TJB2_HOURLY2,What is/was the gross dollar amount of ... the second hourly pay rate before any taxes and other deductions?,Labor Force
+TPYRATE2,Regular hourly pay rate,Job,TJB2_HOURLY3,What is/was the gross dollar amount of ... the third hourly pay rate before any taxes and other deductions?,Labor Force
+TRIMV,Market value of rental property owned in own name,Rental Properties,TORPVAL,Value of individually-owned rental property as of the last day of the reference period.,Assets
+TRIPRI,Principal owed on rental property in own name,Rental Properties,TORPDEBTVAL,Total debt against individually-owned rental property as of the last day of the reference period.,Assets
+TRJMV,Market value of joint rent not on land of residence,Rental Properties,TJSRPVAL,"Share of value of jointly-owned rental property as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TRJPRI,Principal owed on joint rental property with spouse,Rental Properties,TJSRPDEBTVAL,"Share of total debt against jointly-owned rental property as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TROLLAMT,Amnt rolled over into retirement acct in ref. period,General Income,TROLLAMT,How much did ... roll over or plan to roll over into another retirement account?,Programs
+TRTMV,Market value of joint rental property with others,Rental Properties,TJORPVAL,Share of value of jointly-owned rental property as of the last day of the reference period [for respondents without a spouse or civil union partner in the household].,Assets
+TRTPRI,Principal owed on joint rental property,Rental Properties,TJORPDEBTVAL,Share of total debt against jointly-owned rental property as of the last day of the reference period [for respondents without a spouse or civil union partner in the household].,Assets
+TSBDATE1,Date operation of business began,Business,EJB1_BMONTH,The beginning month of a job spell with employer 1,Labor Force
+TSBDATE1,Date operation of business began,Business,EJB1_STARTWK,This variable gives the value for the first week in the reference period that the person held this job/business.,Labor Force
+TSBDATE1,Date operation of business began,Business,EJB1_STRTMON,The month a job began when the job began prior to the reference period.,Labor Force
+TSBDATE1,Date operation of business began,Business,TJB1_STRTYR,In what year did ... begin this job/business?,Labor Force
+TSBDATE2,Date operation of business began,Business,EJB2_BMONTH,The beginning month of a job spell with employer 2,Labor Force
+TSBDATE2,Date operation of business began,Business,EJB2_STARTWK,This variable gives the value for the first week in the reference period that the person held this job/business.,Labor Force
+TSBDATE2,Date operation of business began,Business,EJB2_STRTMON,The month a job began when the job began prior to the reference period.,Labor Force
+TSBDATE2,Date operation of business began,Business,TJB2_STRTYR,In what year did ... begin this job/business?,Labor Force
+TSJNTDIV,Amount of dividend check from jointly held stocks,Assets,TJSSTINC,"Share of dividend income earned over the reference period from jointly-owned stocks [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse/partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TSMIV,Value of stocks/funds in own name,Stocks and Mutual Funds,TOMFVAL,Value of individually-owned mutual funds as of the last day of the reference period.,Assets
+TSMIV,Value of stocks/funds in own name,Stocks and Mutual Funds,TOSTVAL,Value of individually-owned stocks as of the last day of the reference period.,Assets
+TSMJV,Value of joint stocks/funds owned with spouse,Stocks and Mutual Funds,TJSMFVAL,"Share of value of jointly-owned mutual funds as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TSMJV,Value of joint stocks/funds owned with spouse,Stocks and Mutual Funds,TJSSTVAL,"Share of value of jointly-owned stocks as of the last day of the reference period [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse or partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TSOWNDIV,Amount of dividend check for solely held stocks,Assets,TOSTINC,Total dividend income earned over the reference period from individually-owned stocks.,Assets
+TSUPAMPD,Amount paid in past year,Support for Nonhousehold Members,TAMOUNTPAID,How much child support did ... pay?,Programs
+TSUPNKID,Number of children supporting,Support for Nonhousehold Members,TNUMKIDS,How many children under 21 who live elsewhere does ... have?,Programs
+TSVJTINT,Amount of monthly interest on joint savings account,Assets,TJSSAVINC,"Share of total interest income earned over the reference period from jointly-owned savings accounts [for respondents with a spouse or civil union partner in the household; this joint amount question is asked of only one spouse/partner, and this response is divided by 2 and copied to both spouses'/partners' records].",Assets
+TSVOINT,Amount of monthly interest from own savings account,Assets,TOSAVINC,Total interest income earned over the reference period from individually-owned savings accounts.,Assets
+TUTILS,Amount paid for utilities per month,Real Estate,TUTILS,"Amount the household paid for basic utilities in December of the reference year [this is household-level data, therefore this value is copied to every member of the household].",Assets
+TVBDE1,The total debt owed against the first business,Value of Business,TBSJ1DEBTVAL,Amount of debt against the first business owned as job as of the end of the reference period.,Assets
+TVBDE2,The total debt owed against the second business,Value of Business,TBSJ2DEBTVAL,Amount of debt against the second business owned as job as of the end of the reference period.,Assets
+TVBVA1,The value of the business for the first business,Value of Business,TBSJ1VAL,Value of first business owned as a job as of the last day of the reference period [not including debts against the business].,Assets
+TVBVA2,The value of the business for business two,Value of Business,TBSJ2VAL,Value of second business owned as a job as of the last day of the reference period [not including debts against the business].,Assets
+UEVRDIV,UNEDITED VARIABLE - Has ... ever been divorced?,Demographic,EVERDIV,Has ... ever been divorced?,Marital History
+UEVRWID,UNEDITED VARIABLE - Has ... ever been widowed?,Demographic,EVERWID,Has ... ever been widowed?,Marital History
